@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name PCB)(type KiCad)(uri ${KIPRJMOD}/Libs/PCB.pretty)(options "")(descr ""))
+  (lib (name Arduino)(type KiCad)(uri ${KIPRJMOD}/Libs/Arduino.pretty)(options "")(descr ""))
+)

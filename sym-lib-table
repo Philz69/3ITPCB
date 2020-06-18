@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name arduino)(type Legacy)(uri ${KIPRJMOD}/Libs/arduino.lib)(options "")(descr ""))
+  (lib (name ADC124S021)(type Legacy)(uri ${KIPRJMOD}/Libs/ADC124S021.lib)(options "")(descr ""))
+  (lib (name INA250)(type Legacy)(uri ${KIPRJMOD}/Libs/INA250.lib)(options "")(descr ""))
+  (lib (name LM431)(type Legacy)(uri ${KIPRJMOD}/Libs/LM431.lib)(options "")(descr ""))
+)

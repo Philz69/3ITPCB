@@ -1,0 +1,409 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 46 80
+Title ""
+Date "2020-05-19"
+Rev ""
+Comp "Université de Sherbrooke"
+Comment1 "Philipe Goulet"
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	5450 2650 5800 2650
+Wire Wire Line
+	5800 2650 5800 2000
+Wire Wire Line
+	5800 2000 3600 2000
+Wire Wire Line
+	3600 2000 3600 3550
+Wire Wire Line
+	3600 3550 3850 3550
+Wire Wire Line
+	3850 3650 3450 3650
+Wire Wire Line
+	3450 3650 3450 1900
+Wire Wire Line
+	3450 1900 5950 1900
+Wire Wire Line
+	5950 1900 5950 2750
+Wire Wire Line
+	5950 2750 5450 2750
+Wire Wire Line
+	5600 3150 5600 3250
+Wire Wire Line
+	5600 3350 5450 3350
+Wire Wire Line
+	5450 3150 5600 3150
+Wire Wire Line
+	5450 3250 5600 3250
+Connection ~ 5600 3250
+Wire Wire Line
+	5600 3250 5600 3350
+Wire Wire Line
+	5600 3250 5850 3250
+Wire Wire Line
+	5850 3250 5850 3550
+Wire Wire Line
+	3850 2650 3700 2650
+Wire Wire Line
+	3700 2650 3700 2750
+Wire Wire Line
+	3700 2750 3850 2750
+Wire Wire Line
+	3850 2850 3700 2850
+Wire Wire Line
+	3700 2850 3700 2750
+Connection ~ 3700 2750
+Wire Wire Line
+	3850 2950 3700 2950
+Wire Wire Line
+	3700 2950 3700 3050
+Wire Wire Line
+	3700 3050 3850 3050
+Wire Wire Line
+	3850 3150 3700 3150
+Wire Wire Line
+	3700 3150 3700 3050
+Connection ~ 3700 3050
+Wire Wire Line
+	3700 3050 3000 3050
+Wire Wire Line
+	2800 3350 2800 3550
+Wire Wire Line
+	3100 4750 3100 4550
+Wire Wire Line
+	3100 4250 3100 4050
+Wire Wire Line
+	2800 3350 3850 3350
+Wire Wire Line
+	3100 4050 3850 4050
+Wire Wire Line
+	3100 4050 2800 4050
+Connection ~ 3100 4050
+Wire Wire Line
+	3700 2750 3000 2750
+Text HLabel 2800 4050 0    50   Input ~ 0
++5V
+$Comp
+L INA250:INA250A1PW U?
+U 1 1 5EFCEF61
+P 7850 2750
+AR Path="/5EC4179E/5EFCEF61" Ref="U?"  Part="1" 
+AR Path="/5ED239DB/5EFCEF61" Ref="U?"  Part="1" 
+AR Path="/5ED356AA/5EFCEF61" Ref="U?"  Part="1" 
+AR Path="/5ED47C36/5EFCEF61" Ref="U?"  Part="1" 
+AR Path="/5EC4179E/5EDAFED5/5EFCEF61" Ref="U?"  Part="1" 
+AR Path="/5EC4179E/5EDDDFFD/5EFCEF61" Ref="U?"  Part="1" 
+AR Path="/5EC4179E/5EDDE040/5EFCEF61" Ref="U?"  Part="1" 
+AR Path="/5EC4179E/5EDDE34E/5EFCEF61" Ref="U?"  Part="1" 
+AR Path="/5EE9C593/5EDAFED5/5EFCEF61" Ref="U?"  Part="1" 
+AR Path="/5EE9C593/5EDDDFFD/5EFCEF61" Ref="U?"  Part="1" 
+AR Path="/5EE9C593/5EDDE040/5EFCEF61" Ref="U?"  Part="1" 
+AR Path="/5EE9C593/5EDDE34E/5EFCEF61" Ref="U?"  Part="1" 
+AR Path="/5EEAF65F/5EDAFED5/5EFCEF61" Ref="U?"  Part="1" 
+AR Path="/5EEAF65F/5EDDDFFD/5EFCEF61" Ref="U?"  Part="1" 
+AR Path="/5EEAF65F/5EDDE040/5EFCEF61" Ref="U?"  Part="1" 
+AR Path="/5EEAF65F/5EDDE34E/5EFCEF61" Ref="U?"  Part="1" 
+AR Path="/5EEC30AA/5EDAFED5/5EFCEF61" Ref="U?"  Part="1" 
+AR Path="/5EEC30AA/5EDDDFFD/5EFCEF61" Ref="U?"  Part="1" 
+AR Path="/5EEC30AA/5EDDE040/5EFCEF61" Ref="U?"  Part="1" 
+AR Path="/5EEC30AA/5EDDE34E/5EFCEF61" Ref="U?"  Part="1" 
+AR Path="/5EC5C5B4/5EFCEF61" Ref="U?"  Part="1" 
+AR Path="/5EF8B1F5/5EF90CFC/5EFCEF61" Ref="U31"  Part="1" 
+F 0 "U31" H 8650 3237 60  0000 C CNN
+F 1 "INA250A1PW" H 8650 3131 60  0000 C CNN
+F 2 "Package_SO:TSSOP-16_4.4x5mm_P0.65mm" H 8650 3090 60  0001 C CNN
+F 3 "" H 7850 2750 60  0000 C CNN
+	1    7850 2750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9450 2750 9800 2750
+Wire Wire Line
+	9800 2750 9800 2100
+Wire Wire Line
+	9800 2100 7600 2100
+Wire Wire Line
+	7600 2100 7600 3650
+Wire Wire Line
+	7600 3650 7850 3650
+Wire Wire Line
+	7850 3750 7450 3750
+Wire Wire Line
+	7450 3750 7450 2000
+Wire Wire Line
+	7450 2000 9950 2000
+Wire Wire Line
+	9950 2000 9950 2850
+Wire Wire Line
+	9950 2850 9450 2850
+Wire Wire Line
+	9600 3250 9600 3350
+Wire Wire Line
+	9600 3450 9450 3450
+Wire Wire Line
+	9450 3250 9600 3250
+Wire Wire Line
+	9450 3350 9600 3350
+Connection ~ 9600 3350
+Wire Wire Line
+	9600 3350 9600 3450
+Wire Wire Line
+	9600 3350 9850 3350
+Wire Wire Line
+	9850 3350 9850 3650
+Wire Wire Line
+	7850 2750 7700 2750
+Wire Wire Line
+	7700 2750 7700 2850
+Wire Wire Line
+	7700 2850 7850 2850
+Wire Wire Line
+	7850 2950 7700 2950
+Wire Wire Line
+	7700 2950 7700 2850
+Connection ~ 7700 2850
+Wire Wire Line
+	7850 3050 7700 3050
+Wire Wire Line
+	7700 3050 7700 3150
+Wire Wire Line
+	7700 3150 7850 3150
+Wire Wire Line
+	7850 3250 7700 3250
+Wire Wire Line
+	7700 3250 7700 3150
+Connection ~ 7700 3150
+Wire Wire Line
+	7700 3150 7000 3150
+Wire Wire Line
+	7100 4850 7100 4650
+Wire Wire Line
+	7100 4350 7100 4150
+Wire Wire Line
+	7100 4150 7850 4150
+Wire Wire Line
+	7100 4150 6800 4150
+Connection ~ 7100 4150
+Wire Wire Line
+	7700 2850 7000 2850
+Text HLabel 6800 4150 0    50   Input ~ 0
++5V
+Text HLabel 9450 2650 2    50   Input ~ 0
+OUT
+Text HLabel 3000 2750 0    50   Input ~ 0
+IN-
+Text HLabel 3000 3050 0    50   Input ~ 0
+IN+
+Text HLabel 7000 3150 0    50   Input ~ 0
+IN+
+Text HLabel 7000 2850 0    50   Input ~ 0
+IN-
+Wire Wire Line
+	5450 2550 6450 2550
+Wire Wire Line
+	6450 2550 6450 3450
+Wire Wire Line
+	6450 3450 7850 3450
+Text HLabel 2800 4050 0    50   Input ~ 0
++5V
+$Comp
+L Device:C C?
+U 1 1 5ED04111
+P 7100 4500
+AR Path="/5EC4179E/5ED04111" Ref="C?"  Part="1" 
+AR Path="/5ED239DB/5ED04111" Ref="C?"  Part="1" 
+AR Path="/5ED356AA/5ED04111" Ref="C?"  Part="1" 
+AR Path="/5ED47C36/5ED04111" Ref="C?"  Part="1" 
+AR Path="/5EC4179E/5EDAFED5/5ED04111" Ref="C?"  Part="1" 
+AR Path="/5EC4179E/5EDDDFFD/5ED04111" Ref="C?"  Part="1" 
+AR Path="/5EC4179E/5EDDE040/5ED04111" Ref="C?"  Part="1" 
+AR Path="/5EC4179E/5EDDE34E/5ED04111" Ref="C?"  Part="1" 
+AR Path="/5EE9C593/5EDAFED5/5ED04111" Ref="C?"  Part="1" 
+AR Path="/5EE9C593/5EDDDFFD/5ED04111" Ref="C?"  Part="1" 
+AR Path="/5EE9C593/5EDDE040/5ED04111" Ref="C?"  Part="1" 
+AR Path="/5EE9C593/5EDDE34E/5ED04111" Ref="C?"  Part="1" 
+AR Path="/5EEAF65F/5EDAFED5/5ED04111" Ref="C?"  Part="1" 
+AR Path="/5EEAF65F/5EDDDFFD/5ED04111" Ref="C?"  Part="1" 
+AR Path="/5EEAF65F/5EDDE040/5ED04111" Ref="C?"  Part="1" 
+AR Path="/5EEAF65F/5EDDE34E/5ED04111" Ref="C?"  Part="1" 
+AR Path="/5EEC30AA/5EDAFED5/5ED04111" Ref="C?"  Part="1" 
+AR Path="/5EEC30AA/5EDDDFFD/5ED04111" Ref="C?"  Part="1" 
+AR Path="/5EEC30AA/5EDDE040/5ED04111" Ref="C?"  Part="1" 
+AR Path="/5EEC30AA/5EDDE34E/5ED04111" Ref="C?"  Part="1" 
+AR Path="/5EC5C5B4/5ED04111" Ref="C?"  Part="1" 
+AR Path="/5EF8B1F5/5EF90CFC/5ED04111" Ref="C70"  Part="1" 
+F 0 "C70" H 7215 4546 50  0000 L CNN
+F 1 "0.1uF" H 7215 4455 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 7138 4350 50  0001 C CNN
+F 3 "~" H 7100 4500 50  0001 C CNN
+	1    7100 4500
+	1    0    0    -1  
+$EndComp
+Text HLabel 6800 4150 0    50   Input ~ 0
++5V
+Text HLabel 9450 2650 2    50   Input ~ 0
+OUT
+Text HLabel 3000 2750 0    50   Input ~ 0
+IN-
+Text HLabel 3000 3050 0    50   Input ~ 0
+IN+
+Text HLabel 7000 3150 0    50   Input ~ 0
+IN+
+Text HLabel 7000 2850 0    50   Input ~ 0
+IN-
+$Comp
+L INA250:INA250A1PW U?
+U 1 1 5EFFBFA1
+P 3850 2650
+AR Path="/5EC4179E/5EFFBFA1" Ref="U?"  Part="1" 
+AR Path="/5ED239DB/5EFFBFA1" Ref="U?"  Part="1" 
+AR Path="/5ED356AA/5EFFBFA1" Ref="U?"  Part="1" 
+AR Path="/5ED47C36/5EFFBFA1" Ref="U?"  Part="1" 
+AR Path="/5EC4179E/5EDAFED5/5EFFBFA1" Ref="U?"  Part="1" 
+AR Path="/5EC4179E/5EDDDFFD/5EFFBFA1" Ref="U?"  Part="1" 
+AR Path="/5EC4179E/5EDDE040/5EFFBFA1" Ref="U?"  Part="1" 
+AR Path="/5EC4179E/5EDDE34E/5EFFBFA1" Ref="U?"  Part="1" 
+AR Path="/5EE9C593/5EDAFED5/5EFFBFA1" Ref="U?"  Part="1" 
+AR Path="/5EE9C593/5EDDDFFD/5EFFBFA1" Ref="U?"  Part="1" 
+AR Path="/5EE9C593/5EDDE040/5EFFBFA1" Ref="U?"  Part="1" 
+AR Path="/5EE9C593/5EDDE34E/5EFFBFA1" Ref="U?"  Part="1" 
+AR Path="/5EEAF65F/5EDAFED5/5EFFBFA1" Ref="U?"  Part="1" 
+AR Path="/5EEAF65F/5EDDDFFD/5EFFBFA1" Ref="U?"  Part="1" 
+AR Path="/5EEAF65F/5EDDE040/5EFFBFA1" Ref="U?"  Part="1" 
+AR Path="/5EEAF65F/5EDDE34E/5EFFBFA1" Ref="U?"  Part="1" 
+AR Path="/5EEC30AA/5EDAFED5/5EFFBFA1" Ref="U?"  Part="1" 
+AR Path="/5EEC30AA/5EDDDFFD/5EFFBFA1" Ref="U?"  Part="1" 
+AR Path="/5EEC30AA/5EDDE040/5EFFBFA1" Ref="U?"  Part="1" 
+AR Path="/5EEC30AA/5EDDE34E/5EFFBFA1" Ref="U?"  Part="1" 
+AR Path="/5EC5C5B4/5EFFBFA1" Ref="U?"  Part="1" 
+AR Path="/5EF8B1F5/5EF90CFC/5EFFBFA1" Ref="U30"  Part="1" 
+F 0 "U30" H 4650 3137 60  0000 C CNN
+F 1 "INA250A1PW" H 4650 3031 60  0000 C CNN
+F 2 "Package_SO:TSSOP-16_4.4x5mm_P0.65mm" H 4650 2990 60  0001 C CNN
+F 3 "" H 3850 2650 60  0000 C CNN
+	1    3850 2650
+	1    0    0    -1  
+$EndComp
+Text HLabel 2800 4050 0    50   Input ~ 0
++5V
+Text HLabel 6800 4150 0    50   Input ~ 0
++5V
+Text HLabel 9450 2650 2    50   Input ~ 0
+OUT
+Text HLabel 3000 2750 0    50   Input ~ 0
+IN-
+Text HLabel 3000 3050 0    50   Input ~ 0
+IN+
+Text HLabel 7000 3150 0    50   Input ~ 0
+IN+
+Text HLabel 7000 2850 0    50   Input ~ 0
+IN-
+Text HLabel 2800 4050 0    50   Input ~ 0
++5V
+Text HLabel 6800 4150 0    50   Input ~ 0
++5V
+Text HLabel 9450 2650 2    50   Input ~ 0
+OUT
+Text HLabel 3000 2750 0    50   Input ~ 0
+IN-
+Text HLabel 3000 3050 0    50   Input ~ 0
+IN+
+Text HLabel 7000 3150 0    50   Input ~ 0
+IN+
+Text HLabel 7000 2850 0    50   Input ~ 0
+IN-
+$Comp
+L Device:C C?
+U 1 1 5EFFBFAF
+P 3100 4400
+AR Path="/5EC4179E/5EFFBFAF" Ref="C?"  Part="1" 
+AR Path="/5ED239DB/5EFFBFAF" Ref="C?"  Part="1" 
+AR Path="/5ED356AA/5EFFBFAF" Ref="C?"  Part="1" 
+AR Path="/5ED47C36/5EFFBFAF" Ref="C?"  Part="1" 
+AR Path="/5EC4179E/5EDAFED5/5EFFBFAF" Ref="C?"  Part="1" 
+AR Path="/5EC4179E/5EDDDFFD/5EFFBFAF" Ref="C?"  Part="1" 
+AR Path="/5EC4179E/5EDDE040/5EFFBFAF" Ref="C?"  Part="1" 
+AR Path="/5EC4179E/5EDDE34E/5EFFBFAF" Ref="C?"  Part="1" 
+AR Path="/5EE9C593/5EDAFED5/5EFFBFAF" Ref="C?"  Part="1" 
+AR Path="/5EE9C593/5EDDDFFD/5EFFBFAF" Ref="C?"  Part="1" 
+AR Path="/5EE9C593/5EDDE040/5EFFBFAF" Ref="C?"  Part="1" 
+AR Path="/5EE9C593/5EDDE34E/5EFFBFAF" Ref="C?"  Part="1" 
+AR Path="/5EEAF65F/5EDAFED5/5EFFBFAF" Ref="C?"  Part="1" 
+AR Path="/5EEAF65F/5EDDDFFD/5EFFBFAF" Ref="C?"  Part="1" 
+AR Path="/5EEAF65F/5EDDE040/5EFFBFAF" Ref="C?"  Part="1" 
+AR Path="/5EEAF65F/5EDDE34E/5EFFBFAF" Ref="C?"  Part="1" 
+AR Path="/5EEC30AA/5EDAFED5/5EFFBFAF" Ref="C?"  Part="1" 
+AR Path="/5EEC30AA/5EDDDFFD/5EFFBFAF" Ref="C?"  Part="1" 
+AR Path="/5EEC30AA/5EDDE040/5EFFBFAF" Ref="C?"  Part="1" 
+AR Path="/5EEC30AA/5EDDE34E/5EFFBFAF" Ref="C?"  Part="1" 
+AR Path="/5EC5C5B4/5EFFBFAF" Ref="C?"  Part="1" 
+AR Path="/5EF8B1F5/5EF90CFC/5EFFBFAF" Ref="C69"  Part="1" 
+F 0 "C69" H 3215 4446 50  0000 L CNN
+F 1 "0.1uF" H 3215 4355 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 3138 4250 50  0001 C CNN
+F 3 "~" H 3100 4400 50  0001 C CNN
+	1    3100 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GNDA #PWR0149
+U 1 1 6183D793
+P 9850 3650
+F 0 "#PWR0149" H 9850 3400 50  0001 C CNN
+F 1 "GNDA" H 9855 3477 50  0000 C CNN
+F 2 "" H 9850 3650 50  0001 C CNN
+F 3 "" H 9850 3650 50  0001 C CNN
+	1    9850 3650
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GNDA #PWR0148
+U 1 1 6183DDF4
+P 7100 4850
+F 0 "#PWR0148" H 7100 4600 50  0001 C CNN
+F 1 "GNDA" H 7105 4677 50  0000 C CNN
+F 2 "" H 7100 4850 50  0001 C CNN
+F 3 "" H 7100 4850 50  0001 C CNN
+	1    7100 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GNDA #PWR0147
+U 1 1 6183E3C5
+P 5850 3550
+F 0 "#PWR0147" H 5850 3300 50  0001 C CNN
+F 1 "GNDA" H 5855 3377 50  0000 C CNN
+F 2 "" H 5850 3550 50  0001 C CNN
+F 3 "" H 5850 3550 50  0001 C CNN
+	1    5850 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GNDA #PWR0146
+U 1 1 6183E7DC
+P 3100 4750
+F 0 "#PWR0146" H 3100 4500 50  0001 C CNN
+F 1 "GNDA" H 3105 4577 50  0000 C CNN
+F 2 "" H 3100 4750 50  0001 C CNN
+F 3 "" H 3100 4750 50  0001 C CNN
+	1    3100 4750
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GNDA #PWR0145
+U 1 1 6183EF83
+P 2800 3550
+F 0 "#PWR0145" H 2800 3300 50  0001 C CNN
+F 1 "GNDA" H 2805 3377 50  0000 C CNN
+F 2 "" H 2800 3550 50  0001 C CNN
+F 3 "" H 2800 3550 50  0001 C CNN
+	1    2800 3550
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
