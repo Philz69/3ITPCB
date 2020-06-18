@@ -1862,10 +1862,10 @@ F 3 "" H 19000 4650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:Screw_Terminal_01x16 J2
+L Connector:Screw_Terminal_01x16 J3
 U 1 1 5F3E87B3
 P 1200 16150
-F 0 "J2" H 1118 17067 50  0000 C CNN
+F 0 "J3" H 1118 17067 50  0000 C CNN
 F 1 "PASSIVE_CHANNELS" H 1118 16976 50  0000 C CNN
 F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-16-5.0-H_1x16_P5.00mm_Horizontal" H 1200 16150 50  0001 C CNN
 F 3 "~" H 1200 16150 50  0001 C CNN
@@ -3163,10 +3163,10 @@ F 3 "~" H 10450 3050 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Connector:Screw_Terminal_01x16 J3
+L Connector:Screw_Terminal_01x16 J1
 U 1 1 5F02987D
 P 850 2900
-F 0 "J3" H 768 3817 50  0000 C CNN
+F 0 "J1" H 768 3817 50  0000 C CNN
 F 1 "PASSIVE_CHANNELS" H 768 3726 50  0000 C CNN
 F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-16-5.0-H_1x16_P5.00mm_Horizontal" H 850 2900 50  0001 C CNN
 F 3 "~" H 850 2900 50  0001 C CNN
@@ -3302,10 +3302,10 @@ T8+
 Text Label 1400 3700 0    50   ~ 0
 T8-
 $Comp
-L Connector:Screw_Terminal_01x16 J1
+L Connector:Screw_Terminal_01x16 J2
 U 1 1 5F91A19D
 P 850 4800
-F 0 "J1" H 768 5717 50  0000 C CNN
+F 0 "J2" H 768 5717 50  0000 C CNN
 F 1 "PASSIVE_CHANNELS" H 768 5626 50  0000 C CNN
 F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-16-5.0-H_1x16_P5.00mm_Horizontal" H 850 4800 50  0001 C CNN
 F 3 "~" H 850 4800 50  0001 C CNN
