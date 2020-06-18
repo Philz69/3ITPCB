@@ -363,43 +363,43 @@ Connection ~ 5750 3200
 Wire Wire Line
 	5750 3200 5750 3450
 $Comp
-L Connector:TestPoint TPVAD?
+L Connector:TestPoint VAD?
 U 1 1 5F592294
 P 6650 2350
-AR Path="/5EBDFBAE/5F592294" Ref="TPVAD?"  Part="1" 
-AR Path="/5EC0778F/5F592294" Ref="TPVAD?"  Part="1" 
-AR Path="/5ECCDD4B/5F592294" Ref="TPVAD?"  Part="1" 
-AR Path="/5ECD7158/5F592294" Ref="TPVAD?"  Part="1" 
-AR Path="/5ECE0B35/5F592294" Ref="TPVAD?"  Part="1" 
-AR Path="/5EC21102/5F592294" Ref="TPVAD?"  Part="1" 
-AR Path="/5EC2114E/5F592294" Ref="TPVAD?"  Part="1" 
-AR Path="/5EC2119A/5F592294" Ref="TPVAD?"  Part="1" 
-AR Path="/5EC211E6/5F592294" Ref="TPVAD?"  Part="1" 
-AR Path="/5EC536EA/5F592294" Ref="TPVAD?"  Part="1" 
-AR Path="/5EC60ECA/5F592294" Ref="TPVAD?"  Part="1" 
-AR Path="/5EC6E362/5F592294" Ref="TPVAD?"  Part="1" 
-AR Path="/5EC7BA20/5F592294" Ref="TPVAD?"  Part="1" 
-AR Path="/5EC88F26/5F592294" Ref="TPVAD?"  Part="1" 
-AR Path="/5EC96422/5F592294" Ref="TPVAD?"  Part="1" 
-AR Path="/5ECA39A0/5F592294" Ref="TPVAD?"  Part="1" 
-AR Path="/5F466AC8/5F592294" Ref="TPVAD?"  Part="1" 
-AR Path="/5F466B4B/5F592294" Ref="TPVAD?"  Part="1" 
-AR Path="/5F466B56/5F592294" Ref="TPVAD?"  Part="1" 
-AR Path="/5F466B61/5F592294" Ref="TPVAD?"  Part="1" 
-AR Path="/5F592294" Ref="TPVAD?"  Part="1" 
-AR Path="/5F349895/5F592294" Ref="TPVAD1"  Part="1" 
-AR Path="/5F9E924D/5F592294" Ref="TPVAD?"  Part="1" 
-AR Path="/5FA111F4/5F592294" Ref="TPVAD?"  Part="1" 
-AR Path="/5FA373CA/5F592294" Ref="TPVAD?"  Part="1" 
-AR Path="/5FA5E0C4/5F592294" Ref="TPVAD?"  Part="1" 
-AR Path="/5FA85B69/5F592294" Ref="TPVAD?"  Part="1" 
-AR Path="/5FAADC18/5F592294" Ref="TPVAD?"  Part="1" 
-AR Path="/5FAD6864/5F592294" Ref="TPVAD?"  Part="1" 
-AR Path="/60A8208C/5F592294" Ref="TPVAD?"  Part="1" 
-AR Path="/60B86F60/5F592294" Ref="TPVAD4"  Part="1" 
-AR Path="/60CE393E/5F592294" Ref="TPVAD6"  Part="1" 
-AR Path="/60E3DF1C/5F592294" Ref="TPVAD8"  Part="1" 
-F 0 "TPVAD1" V 6600 2550 50  0000 L CNN
+AR Path="/5EBDFBAE/5F592294" Ref="VAD?"  Part="1" 
+AR Path="/5EC0778F/5F592294" Ref="VAD?"  Part="1" 
+AR Path="/5ECCDD4B/5F592294" Ref="VAD?"  Part="1" 
+AR Path="/5ECD7158/5F592294" Ref="VAD?"  Part="1" 
+AR Path="/5ECE0B35/5F592294" Ref="VAD?"  Part="1" 
+AR Path="/5EC21102/5F592294" Ref="VAD?"  Part="1" 
+AR Path="/5EC2114E/5F592294" Ref="VAD?"  Part="1" 
+AR Path="/5EC2119A/5F592294" Ref="VAD?"  Part="1" 
+AR Path="/5EC211E6/5F592294" Ref="VAD?"  Part="1" 
+AR Path="/5EC536EA/5F592294" Ref="VAD?"  Part="1" 
+AR Path="/5EC60ECA/5F592294" Ref="VAD?"  Part="1" 
+AR Path="/5EC6E362/5F592294" Ref="VAD?"  Part="1" 
+AR Path="/5EC7BA20/5F592294" Ref="VAD?"  Part="1" 
+AR Path="/5EC88F26/5F592294" Ref="VAD?"  Part="1" 
+AR Path="/5EC96422/5F592294" Ref="VAD?"  Part="1" 
+AR Path="/5ECA39A0/5F592294" Ref="VAD?"  Part="1" 
+AR Path="/5F466AC8/5F592294" Ref="VAD?"  Part="1" 
+AR Path="/5F466B4B/5F592294" Ref="VAD?"  Part="1" 
+AR Path="/5F466B56/5F592294" Ref="VAD?"  Part="1" 
+AR Path="/5F466B61/5F592294" Ref="VAD?"  Part="1" 
+AR Path="/5F592294" Ref="VAD?"  Part="1" 
+AR Path="/5F349895/5F592294" Ref="VAD1"  Part="1" 
+AR Path="/5F9E924D/5F592294" Ref="VAD?"  Part="1" 
+AR Path="/5FA111F4/5F592294" Ref="VAD?"  Part="1" 
+AR Path="/5FA373CA/5F592294" Ref="VAD?"  Part="1" 
+AR Path="/5FA5E0C4/5F592294" Ref="VAD?"  Part="1" 
+AR Path="/5FA85B69/5F592294" Ref="VAD?"  Part="1" 
+AR Path="/5FAADC18/5F592294" Ref="VAD?"  Part="1" 
+AR Path="/5FAD6864/5F592294" Ref="VAD?"  Part="1" 
+AR Path="/60A8208C/5F592294" Ref="VAD?"  Part="1" 
+AR Path="/60B86F60/5F592294" Ref="VAD3"  Part="1" 
+AR Path="/60CE393E/5F592294" Ref="VAD5"  Part="1" 
+AR Path="/60E3DF1C/5F592294" Ref="VAD7"  Part="1" 
+F 0 "VAD1" V 6600 2550 50  0000 L CNN
 F 1 "TestPoint" V 6700 2550 50  0000 L CNN
 F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 6850 2350 50  0001 C CNN
 F 3 "~" H 6850 2350 50  0001 C CNN
@@ -407,43 +407,43 @@ F 3 "~" H 6850 2350 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Connector:TestPoint TPV+?
+L Connector:TestPoint V+?
 U 1 1 5F59353A
 P 4900 2650
-AR Path="/5EBDFBAE/5F59353A" Ref="TPV+?"  Part="1" 
-AR Path="/5EC0778F/5F59353A" Ref="TPV+?"  Part="1" 
-AR Path="/5ECCDD4B/5F59353A" Ref="TPV+?"  Part="1" 
-AR Path="/5ECD7158/5F59353A" Ref="TPV+?"  Part="1" 
-AR Path="/5ECE0B35/5F59353A" Ref="TPV+?"  Part="1" 
-AR Path="/5EC21102/5F59353A" Ref="TPV+?"  Part="1" 
-AR Path="/5EC2114E/5F59353A" Ref="TPV+?"  Part="1" 
-AR Path="/5EC2119A/5F59353A" Ref="TPV+?"  Part="1" 
-AR Path="/5EC211E6/5F59353A" Ref="TPV+?"  Part="1" 
-AR Path="/5EC536EA/5F59353A" Ref="TPV+?"  Part="1" 
-AR Path="/5EC60ECA/5F59353A" Ref="TPV+?"  Part="1" 
-AR Path="/5EC6E362/5F59353A" Ref="TPV+?"  Part="1" 
-AR Path="/5EC7BA20/5F59353A" Ref="TPV+?"  Part="1" 
-AR Path="/5EC88F26/5F59353A" Ref="TPV+?"  Part="1" 
-AR Path="/5EC96422/5F59353A" Ref="TPV+?"  Part="1" 
-AR Path="/5ECA39A0/5F59353A" Ref="TPV+?"  Part="1" 
-AR Path="/5F466AC8/5F59353A" Ref="TPV+?"  Part="1" 
-AR Path="/5F466B4B/5F59353A" Ref="TPV+?"  Part="1" 
-AR Path="/5F466B56/5F59353A" Ref="TPV+?"  Part="1" 
-AR Path="/5F466B61/5F59353A" Ref="TPV+?"  Part="1" 
-AR Path="/5F59353A" Ref="TPV+?"  Part="1" 
-AR Path="/5F349895/5F59353A" Ref="TPV+1"  Part="1" 
-AR Path="/5F9E924D/5F59353A" Ref="TPV+?"  Part="1" 
-AR Path="/5FA111F4/5F59353A" Ref="TPV+?"  Part="1" 
-AR Path="/5FA373CA/5F59353A" Ref="TPV+?"  Part="1" 
-AR Path="/5FA5E0C4/5F59353A" Ref="TPV+?"  Part="1" 
-AR Path="/5FA85B69/5F59353A" Ref="TPV+?"  Part="1" 
-AR Path="/5FAADC18/5F59353A" Ref="TPV+?"  Part="1" 
-AR Path="/5FAD6864/5F59353A" Ref="TPV+?"  Part="1" 
-AR Path="/60A8208C/5F59353A" Ref="TPV+?"  Part="1" 
-AR Path="/60B86F60/5F59353A" Ref="TPV+4"  Part="1" 
-AR Path="/60CE393E/5F59353A" Ref="TPV+6"  Part="1" 
-AR Path="/60E3DF1C/5F59353A" Ref="TPV+8"  Part="1" 
-F 0 "TPV+1" H 4800 3000 50  0000 L CNN
+AR Path="/5EBDFBAE/5F59353A" Ref="V+?"  Part="1" 
+AR Path="/5EC0778F/5F59353A" Ref="V+?"  Part="1" 
+AR Path="/5ECCDD4B/5F59353A" Ref="V+?"  Part="1" 
+AR Path="/5ECD7158/5F59353A" Ref="V+?"  Part="1" 
+AR Path="/5ECE0B35/5F59353A" Ref="V+?"  Part="1" 
+AR Path="/5EC21102/5F59353A" Ref="V+?"  Part="1" 
+AR Path="/5EC2114E/5F59353A" Ref="V+?"  Part="1" 
+AR Path="/5EC2119A/5F59353A" Ref="V+?"  Part="1" 
+AR Path="/5EC211E6/5F59353A" Ref="V+?"  Part="1" 
+AR Path="/5EC536EA/5F59353A" Ref="V+?"  Part="1" 
+AR Path="/5EC60ECA/5F59353A" Ref="V+?"  Part="1" 
+AR Path="/5EC6E362/5F59353A" Ref="V+?"  Part="1" 
+AR Path="/5EC7BA20/5F59353A" Ref="V+?"  Part="1" 
+AR Path="/5EC88F26/5F59353A" Ref="V+?"  Part="1" 
+AR Path="/5EC96422/5F59353A" Ref="V+?"  Part="1" 
+AR Path="/5ECA39A0/5F59353A" Ref="V+?"  Part="1" 
+AR Path="/5F466AC8/5F59353A" Ref="V+?"  Part="1" 
+AR Path="/5F466B4B/5F59353A" Ref="V+?"  Part="1" 
+AR Path="/5F466B56/5F59353A" Ref="V+?"  Part="1" 
+AR Path="/5F466B61/5F59353A" Ref="V+?"  Part="1" 
+AR Path="/5F59353A" Ref="V+?"  Part="1" 
+AR Path="/5F349895/5F59353A" Ref="V+1"  Part="1" 
+AR Path="/5F9E924D/5F59353A" Ref="V+?"  Part="1" 
+AR Path="/5FA111F4/5F59353A" Ref="V+?"  Part="1" 
+AR Path="/5FA373CA/5F59353A" Ref="V+?"  Part="1" 
+AR Path="/5FA5E0C4/5F59353A" Ref="V+?"  Part="1" 
+AR Path="/5FA85B69/5F59353A" Ref="V+?"  Part="1" 
+AR Path="/5FAADC18/5F59353A" Ref="V+?"  Part="1" 
+AR Path="/5FAD6864/5F59353A" Ref="V+?"  Part="1" 
+AR Path="/60A8208C/5F59353A" Ref="V+?"  Part="1" 
+AR Path="/60B86F60/5F59353A" Ref="V+3"  Part="1" 
+AR Path="/60CE393E/5F59353A" Ref="V+5"  Part="1" 
+AR Path="/60E3DF1C/5F59353A" Ref="V+7"  Part="1" 
+F 0 "V+1" H 4800 3000 50  0000 L CNN
 F 1 "TestPoint" H 4800 2900 50  0000 L CNN
 F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 5100 2650 50  0001 C CNN
 F 3 "~" H 5100 2650 50  0001 C CNN
@@ -451,50 +451,6 @@ F 3 "~" H 5100 2650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Connection ~ 4900 2650
-$Comp
-L Connector:TestPoint TPV-?
-U 1 1 5F59B12B
-P 4600 3300
-AR Path="/5EBDFBAE/5F59B12B" Ref="TPV-?"  Part="1" 
-AR Path="/5EC0778F/5F59B12B" Ref="TPV-?"  Part="1" 
-AR Path="/5ECCDD4B/5F59B12B" Ref="TPV-?"  Part="1" 
-AR Path="/5ECD7158/5F59B12B" Ref="TPV-?"  Part="1" 
-AR Path="/5ECE0B35/5F59B12B" Ref="TPV-?"  Part="1" 
-AR Path="/5EC21102/5F59B12B" Ref="TPV-?"  Part="1" 
-AR Path="/5EC2114E/5F59B12B" Ref="TPV-?"  Part="1" 
-AR Path="/5EC2119A/5F59B12B" Ref="TPV-?"  Part="1" 
-AR Path="/5EC211E6/5F59B12B" Ref="TPV-?"  Part="1" 
-AR Path="/5EC536EA/5F59B12B" Ref="TPV-?"  Part="1" 
-AR Path="/5EC60ECA/5F59B12B" Ref="TPV-?"  Part="1" 
-AR Path="/5EC6E362/5F59B12B" Ref="TPV-?"  Part="1" 
-AR Path="/5EC7BA20/5F59B12B" Ref="TPV-?"  Part="1" 
-AR Path="/5EC88F26/5F59B12B" Ref="TPV-?"  Part="1" 
-AR Path="/5EC96422/5F59B12B" Ref="TPV-?"  Part="1" 
-AR Path="/5ECA39A0/5F59B12B" Ref="TPV-?"  Part="1" 
-AR Path="/5F466AC8/5F59B12B" Ref="TPV-?"  Part="1" 
-AR Path="/5F466B4B/5F59B12B" Ref="TPV-?"  Part="1" 
-AR Path="/5F466B56/5F59B12B" Ref="TPV-?"  Part="1" 
-AR Path="/5F466B61/5F59B12B" Ref="TPV-?"  Part="1" 
-AR Path="/5F59B12B" Ref="TPV-?"  Part="1" 
-AR Path="/5F349895/5F59B12B" Ref="TPV-1"  Part="1" 
-AR Path="/5F9E924D/5F59B12B" Ref="TPV-?"  Part="1" 
-AR Path="/5FA111F4/5F59B12B" Ref="TPV-?"  Part="1" 
-AR Path="/5FA373CA/5F59B12B" Ref="TPV-?"  Part="1" 
-AR Path="/5FA5E0C4/5F59B12B" Ref="TPV-?"  Part="1" 
-AR Path="/5FA85B69/5F59B12B" Ref="TPV-?"  Part="1" 
-AR Path="/5FAADC18/5F59B12B" Ref="TPV-?"  Part="1" 
-AR Path="/5FAD6864/5F59B12B" Ref="TPV-?"  Part="1" 
-AR Path="/60A8208C/5F59B12B" Ref="TPV-?"  Part="1" 
-AR Path="/60B86F60/5F59B12B" Ref="TPV-4"  Part="1" 
-AR Path="/60CE393E/5F59B12B" Ref="TPV-6"  Part="1" 
-AR Path="/60E3DF1C/5F59B12B" Ref="TPV-8"  Part="1" 
-F 0 "TPV-1" H 4500 3650 50  0000 L CNN
-F 1 "TestPoint" H 4500 3550 50  0000 L CNN
-F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 4800 3300 50  0001 C CNN
-F 3 "~" H 4800 3300 50  0001 C CNN
-	1    4600 3300
-	-1   0    0    1   
-$EndComp
 $Comp
 L Connector:TestPoint TPVGS?
 U 1 1 5F5B8637
@@ -520,7 +476,7 @@ AR Path="/5F466B4B/5F5B8637" Ref="TPVGS?"  Part="1"
 AR Path="/5F466B56/5F5B8637" Ref="TPVGS?"  Part="1" 
 AR Path="/5F466B61/5F5B8637" Ref="TPVGS?"  Part="1" 
 AR Path="/5F5B8637" Ref="TPVGS?"  Part="1" 
-AR Path="/5F349895/5F5B8637" Ref="TPVGS1"  Part="1" 
+AR Path="/5F349895/5F5B8637" Ref="VGS1"  Part="1" 
 AR Path="/5F9E924D/5F5B8637" Ref="TPVGS?"  Part="1" 
 AR Path="/5FA111F4/5F5B8637" Ref="TPVGS?"  Part="1" 
 AR Path="/5FA373CA/5F5B8637" Ref="TPVGS?"  Part="1" 
@@ -532,7 +488,7 @@ AR Path="/60A8208C/5F5B8637" Ref="TPVGS?"  Part="1"
 AR Path="/60B86F60/5F5B8637" Ref="TPVGS4"  Part="1" 
 AR Path="/60CE393E/5F5B8637" Ref="TPVGS6"  Part="1" 
 AR Path="/60E3DF1C/5F5B8637" Ref="TPVGS8"  Part="1" 
-F 0 "TPVGS1" H 6200 3550 50  0000 L CNN
+F 0 "VGS1" H 6200 3550 50  0000 L CNN
 F 1 "TestPoint" H 6200 3450 50  0000 L CNN
 F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 6500 3200 50  0001 C CNN
 F 3 "~" H 6500 3200 50  0001 C CNN
@@ -1004,43 +960,43 @@ Connection ~ 5750 5650
 Wire Wire Line
 	5750 5650 5750 5900
 $Comp
-L Connector:TestPoint TPVAD?
+L Connector:TestPoint VAD?
 U 1 1 6070428F
 P 6650 4850
-AR Path="/5EBDFBAE/6070428F" Ref="TPVAD?"  Part="1" 
-AR Path="/5EC0778F/6070428F" Ref="TPVAD?"  Part="1" 
-AR Path="/5ECCDD4B/6070428F" Ref="TPVAD?"  Part="1" 
-AR Path="/5ECD7158/6070428F" Ref="TPVAD?"  Part="1" 
-AR Path="/5ECE0B35/6070428F" Ref="TPVAD?"  Part="1" 
-AR Path="/5EC21102/6070428F" Ref="TPVAD?"  Part="1" 
-AR Path="/5EC2114E/6070428F" Ref="TPVAD?"  Part="1" 
-AR Path="/5EC2119A/6070428F" Ref="TPVAD?"  Part="1" 
-AR Path="/5EC211E6/6070428F" Ref="TPVAD?"  Part="1" 
-AR Path="/5EC536EA/6070428F" Ref="TPVAD?"  Part="1" 
-AR Path="/5EC60ECA/6070428F" Ref="TPVAD?"  Part="1" 
-AR Path="/5EC6E362/6070428F" Ref="TPVAD?"  Part="1" 
-AR Path="/5EC7BA20/6070428F" Ref="TPVAD?"  Part="1" 
-AR Path="/5EC88F26/6070428F" Ref="TPVAD?"  Part="1" 
-AR Path="/5EC96422/6070428F" Ref="TPVAD?"  Part="1" 
-AR Path="/5ECA39A0/6070428F" Ref="TPVAD?"  Part="1" 
-AR Path="/5F466AC8/6070428F" Ref="TPVAD?"  Part="1" 
-AR Path="/5F466B4B/6070428F" Ref="TPVAD?"  Part="1" 
-AR Path="/5F466B56/6070428F" Ref="TPVAD?"  Part="1" 
-AR Path="/5F466B61/6070428F" Ref="TPVAD?"  Part="1" 
-AR Path="/6070428F" Ref="TPVAD?"  Part="1" 
-AR Path="/5F349895/6070428F" Ref="TPVAD2"  Part="1" 
-AR Path="/5F9E924D/6070428F" Ref="TPVAD?"  Part="1" 
-AR Path="/5FA111F4/6070428F" Ref="TPVAD?"  Part="1" 
-AR Path="/5FA373CA/6070428F" Ref="TPVAD?"  Part="1" 
-AR Path="/5FA5E0C4/6070428F" Ref="TPVAD?"  Part="1" 
-AR Path="/5FA85B69/6070428F" Ref="TPVAD?"  Part="1" 
-AR Path="/5FAADC18/6070428F" Ref="TPVAD?"  Part="1" 
-AR Path="/5FAD6864/6070428F" Ref="TPVAD?"  Part="1" 
-AR Path="/60A8208C/6070428F" Ref="TPVAD?"  Part="1" 
-AR Path="/60B86F60/6070428F" Ref="TPVAD5"  Part="1" 
-AR Path="/60CE393E/6070428F" Ref="TPVAD7"  Part="1" 
-AR Path="/60E3DF1C/6070428F" Ref="TPVAD9"  Part="1" 
-F 0 "TPVAD2" V 6600 5050 50  0000 L CNN
+AR Path="/5EBDFBAE/6070428F" Ref="VAD?"  Part="1" 
+AR Path="/5EC0778F/6070428F" Ref="VAD?"  Part="1" 
+AR Path="/5ECCDD4B/6070428F" Ref="VAD?"  Part="1" 
+AR Path="/5ECD7158/6070428F" Ref="VAD?"  Part="1" 
+AR Path="/5ECE0B35/6070428F" Ref="VAD?"  Part="1" 
+AR Path="/5EC21102/6070428F" Ref="VAD?"  Part="1" 
+AR Path="/5EC2114E/6070428F" Ref="VAD?"  Part="1" 
+AR Path="/5EC2119A/6070428F" Ref="VAD?"  Part="1" 
+AR Path="/5EC211E6/6070428F" Ref="VAD?"  Part="1" 
+AR Path="/5EC536EA/6070428F" Ref="VAD?"  Part="1" 
+AR Path="/5EC60ECA/6070428F" Ref="VAD?"  Part="1" 
+AR Path="/5EC6E362/6070428F" Ref="VAD?"  Part="1" 
+AR Path="/5EC7BA20/6070428F" Ref="VAD?"  Part="1" 
+AR Path="/5EC88F26/6070428F" Ref="VAD?"  Part="1" 
+AR Path="/5EC96422/6070428F" Ref="VAD?"  Part="1" 
+AR Path="/5ECA39A0/6070428F" Ref="VAD?"  Part="1" 
+AR Path="/5F466AC8/6070428F" Ref="VAD?"  Part="1" 
+AR Path="/5F466B4B/6070428F" Ref="VAD?"  Part="1" 
+AR Path="/5F466B56/6070428F" Ref="VAD?"  Part="1" 
+AR Path="/5F466B61/6070428F" Ref="VAD?"  Part="1" 
+AR Path="/6070428F" Ref="VAD?"  Part="1" 
+AR Path="/5F349895/6070428F" Ref="VAD2"  Part="1" 
+AR Path="/5F9E924D/6070428F" Ref="VAD?"  Part="1" 
+AR Path="/5FA111F4/6070428F" Ref="VAD?"  Part="1" 
+AR Path="/5FA373CA/6070428F" Ref="VAD?"  Part="1" 
+AR Path="/5FA5E0C4/6070428F" Ref="VAD?"  Part="1" 
+AR Path="/5FA85B69/6070428F" Ref="VAD?"  Part="1" 
+AR Path="/5FAADC18/6070428F" Ref="VAD?"  Part="1" 
+AR Path="/5FAD6864/6070428F" Ref="VAD?"  Part="1" 
+AR Path="/60A8208C/6070428F" Ref="VAD?"  Part="1" 
+AR Path="/60B86F60/6070428F" Ref="VAD4"  Part="1" 
+AR Path="/60CE393E/6070428F" Ref="VAD6"  Part="1" 
+AR Path="/60E3DF1C/6070428F" Ref="VAD8"  Part="1" 
+F 0 "VAD2" V 6600 5050 50  0000 L CNN
 F 1 "TestPoint" V 6700 5050 50  0000 L CNN
 F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 6850 4850 50  0001 C CNN
 F 3 "~" H 6850 4850 50  0001 C CNN
@@ -1048,43 +1004,43 @@ F 3 "~" H 6850 4850 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Connector:TestPoint TPV+?
+L Connector:TestPoint V+?
 U 1 1 60704299
 P 4900 5100
-AR Path="/5EBDFBAE/60704299" Ref="TPV+?"  Part="1" 
-AR Path="/5EC0778F/60704299" Ref="TPV+?"  Part="1" 
-AR Path="/5ECCDD4B/60704299" Ref="TPV+?"  Part="1" 
-AR Path="/5ECD7158/60704299" Ref="TPV+?"  Part="1" 
-AR Path="/5ECE0B35/60704299" Ref="TPV+?"  Part="1" 
-AR Path="/5EC21102/60704299" Ref="TPV+?"  Part="1" 
-AR Path="/5EC2114E/60704299" Ref="TPV+?"  Part="1" 
-AR Path="/5EC2119A/60704299" Ref="TPV+?"  Part="1" 
-AR Path="/5EC211E6/60704299" Ref="TPV+?"  Part="1" 
-AR Path="/5EC536EA/60704299" Ref="TPV+?"  Part="1" 
-AR Path="/5EC60ECA/60704299" Ref="TPV+?"  Part="1" 
-AR Path="/5EC6E362/60704299" Ref="TPV+?"  Part="1" 
-AR Path="/5EC7BA20/60704299" Ref="TPV+?"  Part="1" 
-AR Path="/5EC88F26/60704299" Ref="TPV+?"  Part="1" 
-AR Path="/5EC96422/60704299" Ref="TPV+?"  Part="1" 
-AR Path="/5ECA39A0/60704299" Ref="TPV+?"  Part="1" 
-AR Path="/5F466AC8/60704299" Ref="TPV+?"  Part="1" 
-AR Path="/5F466B4B/60704299" Ref="TPV+?"  Part="1" 
-AR Path="/5F466B56/60704299" Ref="TPV+?"  Part="1" 
-AR Path="/5F466B61/60704299" Ref="TPV+?"  Part="1" 
-AR Path="/60704299" Ref="TPV+?"  Part="1" 
-AR Path="/5F349895/60704299" Ref="TPV+2"  Part="1" 
-AR Path="/5F9E924D/60704299" Ref="TPV+?"  Part="1" 
-AR Path="/5FA111F4/60704299" Ref="TPV+?"  Part="1" 
-AR Path="/5FA373CA/60704299" Ref="TPV+?"  Part="1" 
-AR Path="/5FA5E0C4/60704299" Ref="TPV+?"  Part="1" 
-AR Path="/5FA85B69/60704299" Ref="TPV+?"  Part="1" 
-AR Path="/5FAADC18/60704299" Ref="TPV+?"  Part="1" 
-AR Path="/5FAD6864/60704299" Ref="TPV+?"  Part="1" 
-AR Path="/60A8208C/60704299" Ref="TPV+?"  Part="1" 
-AR Path="/60B86F60/60704299" Ref="TPV+5"  Part="1" 
-AR Path="/60CE393E/60704299" Ref="TPV+7"  Part="1" 
-AR Path="/60E3DF1C/60704299" Ref="TPV+9"  Part="1" 
-F 0 "TPV+2" H 4800 5450 50  0000 L CNN
+AR Path="/5EBDFBAE/60704299" Ref="V+?"  Part="1" 
+AR Path="/5EC0778F/60704299" Ref="V+?"  Part="1" 
+AR Path="/5ECCDD4B/60704299" Ref="V+?"  Part="1" 
+AR Path="/5ECD7158/60704299" Ref="V+?"  Part="1" 
+AR Path="/5ECE0B35/60704299" Ref="V+?"  Part="1" 
+AR Path="/5EC21102/60704299" Ref="V+?"  Part="1" 
+AR Path="/5EC2114E/60704299" Ref="V+?"  Part="1" 
+AR Path="/5EC2119A/60704299" Ref="V+?"  Part="1" 
+AR Path="/5EC211E6/60704299" Ref="V+?"  Part="1" 
+AR Path="/5EC536EA/60704299" Ref="V+?"  Part="1" 
+AR Path="/5EC60ECA/60704299" Ref="V+?"  Part="1" 
+AR Path="/5EC6E362/60704299" Ref="V+?"  Part="1" 
+AR Path="/5EC7BA20/60704299" Ref="V+?"  Part="1" 
+AR Path="/5EC88F26/60704299" Ref="V+?"  Part="1" 
+AR Path="/5EC96422/60704299" Ref="V+?"  Part="1" 
+AR Path="/5ECA39A0/60704299" Ref="V+?"  Part="1" 
+AR Path="/5F466AC8/60704299" Ref="V+?"  Part="1" 
+AR Path="/5F466B4B/60704299" Ref="V+?"  Part="1" 
+AR Path="/5F466B56/60704299" Ref="V+?"  Part="1" 
+AR Path="/5F466B61/60704299" Ref="V+?"  Part="1" 
+AR Path="/60704299" Ref="V+?"  Part="1" 
+AR Path="/5F349895/60704299" Ref="V+2"  Part="1" 
+AR Path="/5F9E924D/60704299" Ref="V+?"  Part="1" 
+AR Path="/5FA111F4/60704299" Ref="V+?"  Part="1" 
+AR Path="/5FA373CA/60704299" Ref="V+?"  Part="1" 
+AR Path="/5FA5E0C4/60704299" Ref="V+?"  Part="1" 
+AR Path="/5FA85B69/60704299" Ref="V+?"  Part="1" 
+AR Path="/5FAADC18/60704299" Ref="V+?"  Part="1" 
+AR Path="/5FAD6864/60704299" Ref="V+?"  Part="1" 
+AR Path="/60A8208C/60704299" Ref="V+?"  Part="1" 
+AR Path="/60B86F60/60704299" Ref="V+4"  Part="1" 
+AR Path="/60CE393E/60704299" Ref="V+6"  Part="1" 
+AR Path="/60E3DF1C/60704299" Ref="V+8"  Part="1" 
+F 0 "V+2" H 4800 5450 50  0000 L CNN
 F 1 "TestPoint" H 4800 5350 50  0000 L CNN
 F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 5100 5100 50  0001 C CNN
 F 3 "~" H 5100 5100 50  0001 C CNN
@@ -1093,43 +1049,43 @@ F 3 "~" H 5100 5100 50  0001 C CNN
 $EndComp
 Connection ~ 4900 5100
 $Comp
-L Connector:TestPoint TPV-?
+L Connector:TestPoint V-?
 U 1 1 607042A4
 P 4600 5750
-AR Path="/5EBDFBAE/607042A4" Ref="TPV-?"  Part="1" 
-AR Path="/5EC0778F/607042A4" Ref="TPV-?"  Part="1" 
-AR Path="/5ECCDD4B/607042A4" Ref="TPV-?"  Part="1" 
-AR Path="/5ECD7158/607042A4" Ref="TPV-?"  Part="1" 
-AR Path="/5ECE0B35/607042A4" Ref="TPV-?"  Part="1" 
-AR Path="/5EC21102/607042A4" Ref="TPV-?"  Part="1" 
-AR Path="/5EC2114E/607042A4" Ref="TPV-?"  Part="1" 
-AR Path="/5EC2119A/607042A4" Ref="TPV-?"  Part="1" 
-AR Path="/5EC211E6/607042A4" Ref="TPV-?"  Part="1" 
-AR Path="/5EC536EA/607042A4" Ref="TPV-?"  Part="1" 
-AR Path="/5EC60ECA/607042A4" Ref="TPV-?"  Part="1" 
-AR Path="/5EC6E362/607042A4" Ref="TPV-?"  Part="1" 
-AR Path="/5EC7BA20/607042A4" Ref="TPV-?"  Part="1" 
-AR Path="/5EC88F26/607042A4" Ref="TPV-?"  Part="1" 
-AR Path="/5EC96422/607042A4" Ref="TPV-?"  Part="1" 
-AR Path="/5ECA39A0/607042A4" Ref="TPV-?"  Part="1" 
-AR Path="/5F466AC8/607042A4" Ref="TPV-?"  Part="1" 
-AR Path="/5F466B4B/607042A4" Ref="TPV-?"  Part="1" 
-AR Path="/5F466B56/607042A4" Ref="TPV-?"  Part="1" 
-AR Path="/5F466B61/607042A4" Ref="TPV-?"  Part="1" 
-AR Path="/607042A4" Ref="TPV-?"  Part="1" 
-AR Path="/5F349895/607042A4" Ref="TPV-2"  Part="1" 
-AR Path="/5F9E924D/607042A4" Ref="TPV-?"  Part="1" 
-AR Path="/5FA111F4/607042A4" Ref="TPV-?"  Part="1" 
-AR Path="/5FA373CA/607042A4" Ref="TPV-?"  Part="1" 
-AR Path="/5FA5E0C4/607042A4" Ref="TPV-?"  Part="1" 
-AR Path="/5FA85B69/607042A4" Ref="TPV-?"  Part="1" 
-AR Path="/5FAADC18/607042A4" Ref="TPV-?"  Part="1" 
-AR Path="/5FAD6864/607042A4" Ref="TPV-?"  Part="1" 
-AR Path="/60A8208C/607042A4" Ref="TPV-?"  Part="1" 
-AR Path="/60B86F60/607042A4" Ref="TPV-5"  Part="1" 
-AR Path="/60CE393E/607042A4" Ref="TPV-7"  Part="1" 
-AR Path="/60E3DF1C/607042A4" Ref="TPV-9"  Part="1" 
-F 0 "TPV-2" H 4500 6100 50  0000 L CNN
+AR Path="/5EBDFBAE/607042A4" Ref="V-?"  Part="1" 
+AR Path="/5EC0778F/607042A4" Ref="V-?"  Part="1" 
+AR Path="/5ECCDD4B/607042A4" Ref="V-?"  Part="1" 
+AR Path="/5ECD7158/607042A4" Ref="V-?"  Part="1" 
+AR Path="/5ECE0B35/607042A4" Ref="V-?"  Part="1" 
+AR Path="/5EC21102/607042A4" Ref="V-?"  Part="1" 
+AR Path="/5EC2114E/607042A4" Ref="V-?"  Part="1" 
+AR Path="/5EC2119A/607042A4" Ref="V-?"  Part="1" 
+AR Path="/5EC211E6/607042A4" Ref="V-?"  Part="1" 
+AR Path="/5EC536EA/607042A4" Ref="V-?"  Part="1" 
+AR Path="/5EC60ECA/607042A4" Ref="V-?"  Part="1" 
+AR Path="/5EC6E362/607042A4" Ref="V-?"  Part="1" 
+AR Path="/5EC7BA20/607042A4" Ref="V-?"  Part="1" 
+AR Path="/5EC88F26/607042A4" Ref="V-?"  Part="1" 
+AR Path="/5EC96422/607042A4" Ref="V-?"  Part="1" 
+AR Path="/5ECA39A0/607042A4" Ref="V-?"  Part="1" 
+AR Path="/5F466AC8/607042A4" Ref="V-?"  Part="1" 
+AR Path="/5F466B4B/607042A4" Ref="V-?"  Part="1" 
+AR Path="/5F466B56/607042A4" Ref="V-?"  Part="1" 
+AR Path="/5F466B61/607042A4" Ref="V-?"  Part="1" 
+AR Path="/607042A4" Ref="V-?"  Part="1" 
+AR Path="/5F349895/607042A4" Ref="V-2"  Part="1" 
+AR Path="/5F9E924D/607042A4" Ref="V-?"  Part="1" 
+AR Path="/5FA111F4/607042A4" Ref="V-?"  Part="1" 
+AR Path="/5FA373CA/607042A4" Ref="V-?"  Part="1" 
+AR Path="/5FA5E0C4/607042A4" Ref="V-?"  Part="1" 
+AR Path="/5FA85B69/607042A4" Ref="V-?"  Part="1" 
+AR Path="/5FAADC18/607042A4" Ref="V-?"  Part="1" 
+AR Path="/5FAD6864/607042A4" Ref="V-?"  Part="1" 
+AR Path="/60A8208C/607042A4" Ref="V-?"  Part="1" 
+AR Path="/60B86F60/607042A4" Ref="V-4"  Part="1" 
+AR Path="/60CE393E/607042A4" Ref="V-6"  Part="1" 
+AR Path="/60E3DF1C/607042A4" Ref="V-8"  Part="1" 
+F 0 "V-2" H 4500 6100 50  0000 L CNN
 F 1 "TestPoint" H 4500 6000 50  0000 L CNN
 F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 4800 5750 50  0001 C CNN
 F 3 "~" H 4800 5750 50  0001 C CNN
@@ -1161,7 +1117,7 @@ AR Path="/5F466B4B/607042AE" Ref="TPVGS?"  Part="1"
 AR Path="/5F466B56/607042AE" Ref="TPVGS?"  Part="1" 
 AR Path="/5F466B61/607042AE" Ref="TPVGS?"  Part="1" 
 AR Path="/607042AE" Ref="TPVGS?"  Part="1" 
-AR Path="/5F349895/607042AE" Ref="TPVGS2"  Part="1" 
+AR Path="/5F349895/607042AE" Ref="VGS2"  Part="1" 
 AR Path="/5F9E924D/607042AE" Ref="TPVGS?"  Part="1" 
 AR Path="/5FA111F4/607042AE" Ref="TPVGS?"  Part="1" 
 AR Path="/5FA373CA/607042AE" Ref="TPVGS?"  Part="1" 
@@ -1173,7 +1129,7 @@ AR Path="/60A8208C/607042AE" Ref="TPVGS?"  Part="1"
 AR Path="/60B86F60/607042AE" Ref="TPVGS5"  Part="1" 
 AR Path="/60CE393E/607042AE" Ref="TPVGS7"  Part="1" 
 AR Path="/60E3DF1C/607042AE" Ref="TPVGS9"  Part="1" 
-F 0 "TPVGS2" H 6200 6000 50  0000 L CNN
+F 0 "VGS2" H 6200 6000 50  0000 L CNN
 F 1 "TestPoint" H 6200 5900 50  0000 L CNN
 F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 6500 5650 50  0001 C CNN
 F 3 "~" H 6500 5650 50  0001 C CNN
@@ -1466,5 +1422,49 @@ F 2 "" H 3800 3800 50  0001 C CNN
 F 3 "" H 3800 3800 50  0001 C CNN
 	1    3800 3800
 	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint V-?
+U 1 1 5F59B12B
+P 4600 3300
+AR Path="/5EBDFBAE/5F59B12B" Ref="V-?"  Part="1" 
+AR Path="/5EC0778F/5F59B12B" Ref="V-?"  Part="1" 
+AR Path="/5ECCDD4B/5F59B12B" Ref="V-?"  Part="1" 
+AR Path="/5ECD7158/5F59B12B" Ref="V-?"  Part="1" 
+AR Path="/5ECE0B35/5F59B12B" Ref="V-?"  Part="1" 
+AR Path="/5EC21102/5F59B12B" Ref="V-?"  Part="1" 
+AR Path="/5EC2114E/5F59B12B" Ref="V-?"  Part="1" 
+AR Path="/5EC2119A/5F59B12B" Ref="V-?"  Part="1" 
+AR Path="/5EC211E6/5F59B12B" Ref="V-?"  Part="1" 
+AR Path="/5EC536EA/5F59B12B" Ref="V-?"  Part="1" 
+AR Path="/5EC60ECA/5F59B12B" Ref="V-?"  Part="1" 
+AR Path="/5EC6E362/5F59B12B" Ref="V-?"  Part="1" 
+AR Path="/5EC7BA20/5F59B12B" Ref="V-?"  Part="1" 
+AR Path="/5EC88F26/5F59B12B" Ref="V-?"  Part="1" 
+AR Path="/5EC96422/5F59B12B" Ref="V-?"  Part="1" 
+AR Path="/5ECA39A0/5F59B12B" Ref="V-?"  Part="1" 
+AR Path="/5F466AC8/5F59B12B" Ref="V-?"  Part="1" 
+AR Path="/5F466B4B/5F59B12B" Ref="V-?"  Part="1" 
+AR Path="/5F466B56/5F59B12B" Ref="V-?"  Part="1" 
+AR Path="/5F466B61/5F59B12B" Ref="V-?"  Part="1" 
+AR Path="/5F59B12B" Ref="V-?"  Part="1" 
+AR Path="/5F349895/5F59B12B" Ref="V-1"  Part="1" 
+AR Path="/5F9E924D/5F59B12B" Ref="V-?"  Part="1" 
+AR Path="/5FA111F4/5F59B12B" Ref="V-?"  Part="1" 
+AR Path="/5FA373CA/5F59B12B" Ref="V-?"  Part="1" 
+AR Path="/5FA5E0C4/5F59B12B" Ref="V-?"  Part="1" 
+AR Path="/5FA85B69/5F59B12B" Ref="V-?"  Part="1" 
+AR Path="/5FAADC18/5F59B12B" Ref="V-?"  Part="1" 
+AR Path="/5FAD6864/5F59B12B" Ref="V-?"  Part="1" 
+AR Path="/60A8208C/5F59B12B" Ref="V-?"  Part="1" 
+AR Path="/60B86F60/5F59B12B" Ref="V-3"  Part="1" 
+AR Path="/60CE393E/5F59B12B" Ref="V-5"  Part="1" 
+AR Path="/60E3DF1C/5F59B12B" Ref="V-7"  Part="1" 
+F 0 "V-1" H 4500 3650 50  0000 L CNN
+F 1 "TestPoint" H 4500 3550 50  0000 L CNN
+F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 4800 3300 50  0001 C CNN
+F 3 "~" H 4800 3300 50  0001 C CNN
+	1    4600 3300
+	-1   0    0    1   
 $EndComp
 $EndSCHEMATC

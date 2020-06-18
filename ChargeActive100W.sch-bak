@@ -668,10 +668,10 @@ Wire Wire Line
 	4400 3750 4850 3750
 Connection ~ 4850 3750
 $Comp
-L Connector:TestPoint TPV-3
+L Connector:TestPoint TPV-1
 U 1 1 5EF281AD
 P 4100 4000
-F 0 "TPV-3" H 4158 4118 50  0000 L CNN
+F 0 "TPV-1" H 4158 4118 50  0000 L CNN
 F 1 "TestPoint" H 4158 4027 50  0000 L CNN
 F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 4300 4000 50  0001 C CNN
 F 3 "~" H 4300 4000 50  0001 C CNN
@@ -679,10 +679,10 @@ F 3 "~" H 4300 4000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:TestPoint TPV+3
+L Connector:TestPoint TPV+1
 U 1 1 5EF2916C
 P 5200 3350
-F 0 "TPV+3" H 5258 3468 50  0000 L CNN
+F 0 "TPV+1" H 5258 3468 50  0000 L CNN
 F 1 "TestPoint" H 5258 3377 50  0000 L CNN
 F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 5400 3350 50  0001 C CNN
 F 3 "~" H 5400 3350 50  0001 C CNN
@@ -691,10 +691,10 @@ F 3 "~" H 5400 3350 50  0001 C CNN
 $EndComp
 Connection ~ 5200 3350
 $Comp
-L Connector:TestPoint TPVAD3
+L Connector:TestPoint TPVAD1
 U 1 1 5EF29675
 P 5300 2850
-F 0 "TPVAD3" H 5358 2968 50  0000 L CNN
+F 0 "TPVAD1" H 5358 2968 50  0000 L CNN
 F 1 "TestPoint" H 5358 2877 50  0000 L CNN
 F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 5500 2850 50  0001 C CNN
 F 3 "~" H 5500 2850 50  0001 C CNN
