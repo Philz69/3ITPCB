@@ -1110,7 +1110,7 @@
   )
 
   (module Capacitor_SMD:C_0402_1005Metric (layer F.Cu) (tedit 5B301BBE) (tstamp 5EEEACBA)
-    (at 240.48 125.5 90)
+    (at 241.89 125.5 90)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /5F349895/5F2F73D2)
@@ -3680,7 +3680,7 @@
   )
 
   (module Capacitor_SMD:C_0402_1005Metric (layer F.Cu) (tedit 5B301BBE) (tstamp 5EEBAEBC)
-    (at 232.34 130.85)
+    (at 233.75 130.85)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /5EEAF65F/5EDF45FB)
@@ -4334,12 +4334,12 @@
   )
 
   (module Capacitor_SMD:C_0402_1005Metric (layer F.Cu) (tedit 5B301BBE) (tstamp 5EEBAD8A)
-    (at 232.36 123.49 90)
+    (at 233.77 123.49 90)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /5F349895/5ECDBDBE)
     (attr smd)
-    (fp_text reference C61 (at 2.43 -0.03 90) (layer F.SilkS)
+    (fp_text reference C61 (at 2.31 -0.08 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value 0.1nF (at 0 1.17 90) (layer F.Fab)
@@ -4368,7 +4368,7 @@
   )
 
   (module Capacitor_SMD:C_0402_1005Metric (layer F.Cu) (tedit 5B301BBE) (tstamp 5EED725B)
-    (at 232.33 125.45 90)
+    (at 233.74 125.45 90)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /5F349895/5EF21682)
@@ -4402,7 +4402,7 @@
   )
 
   (module Capacitor_SMD:C_0402_1005Metric (layer F.Cu) (tedit 5B301BBE) (tstamp 5EEBB30C)
-    (at 240.67 123.03 90)
+    (at 242.08 123.03 90)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /5F349895/60704269)
@@ -4504,7 +4504,7 @@
   )
 
   (module Capacitor_SMD:C_0402_1005Metric (layer F.Cu) (tedit 5B301BBE) (tstamp 5EEBACE2)
-    (at 237.32 120.67)
+    (at 238.73 120.67)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /5F349895/6110C762)
@@ -11944,7 +11944,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 5EED6EFB)
-    (at 230.82 122.9 270)
+    (at 232.23 122.9 270)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags resistor)
     (path /5F349895/5ECD854D)
@@ -11980,7 +11980,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 5EEEAB07)
-    (at 230.82 125.93 270)
+    (at 232.23 125.93 270)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags resistor)
     (path /5F349895/5ECD4491)
@@ -12016,7 +12016,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 5EEB77B9)
-    (at 242 122.59 270)
+    (at 243.41 122.59 270)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags resistor)
     (path /5F349895/6070425F)
@@ -12052,7 +12052,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 5EEB7549)
-    (at 241.95 125.61 270)
+    (at 243.36 125.61 270)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags resistor)
     (path /5F349895/60704255)
@@ -12088,7 +12088,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 5EED698C)
-    (at 227.99 118.39 90)
+    (at 235.59 118.44 90)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags resistor)
     (path /5F349895/5ECE10E0)
@@ -12124,7 +12124,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 5EEB76F9)
-    (at 240.49 117.92 90)
+    (at 245.38 117.73 90)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags resistor)
     (path /5F349895/60704280)
@@ -12160,7 +12160,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 5EEB7399)
-    (at 231.08 118.47 270)
+    (at 232.49 118.47 270)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags resistor)
     (path /5F349895/5F79E4A9)
@@ -12196,7 +12196,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 5EEB7969)
-    (at 243.63 118.05 270)
+    (at 242.17 117.75 270)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags resistor)
     (path /5F349895/60704205)
@@ -16949,7 +16949,7 @@
   )
 
   (module TestPoint:TestPoint_Pad_1.0x1.0mm (layer F.Cu) (tedit 5A0F774F) (tstamp 5EEB6025)
-    (at 227.22 122.44)
+    (at 228.63 122.44)
     (descr "SMD rectangular pad as test Point, square 1.0mm side length")
     (tags "test point SMD pad rectangle square")
     (path /5F349895/5F59353A)
@@ -16976,7 +16976,7 @@
   )
 
   (module TestPoint:TestPoint_Pad_1.0x1.0mm (layer F.Cu) (tedit 5A0F774F) (tstamp 5EEB610F)
-    (at 246.43 122.86)
+    (at 247.17 122.74)
     (descr "SMD rectangular pad as test Point, square 1.0mm side length")
     (tags "test point SMD pad rectangle square")
     (path /5F349895/60704299)
@@ -17165,7 +17165,7 @@
   )
 
   (module TestPoint:TestPoint_Pad_1.0x1.0mm (layer F.Cu) (tedit 5A0F774F) (tstamp 5EEB5AD0)
-    (at 227.17 125.48)
+    (at 228.58 125.48)
     (descr "SMD rectangular pad as test Point, square 1.0mm side length")
     (tags "test point SMD pad rectangle square")
     (path /5F349895/5F59B12B)
@@ -17192,7 +17192,7 @@
   )
 
   (module TestPoint:TestPoint_Pad_1.0x1.0mm (layer F.Cu) (tedit 5A0F774F) (tstamp 5EEB5B93)
-    (at 246.5 126.81)
+    (at 247.21 126.13)
     (descr "SMD rectangular pad as test Point, square 1.0mm side length")
     (tags "test point SMD pad rectangle square")
     (path /5F349895/607042A4)
@@ -17597,7 +17597,7 @@
   )
 
   (module TestPoint:TestPoint_Pad_1.0x1.0mm (layer F.Cu) (tedit 5A0F774F) (tstamp 5EEB59BF)
-    (at 233.52 118.14)
+    (at 228.7 118.22)
     (descr "SMD rectangular pad as test Point, square 1.0mm side length")
     (tags "test point SMD pad rectangle square")
     (path /5F349895/5F592294)
@@ -17624,7 +17624,7 @@
   )
 
   (module TestPoint:TestPoint_Pad_1.0x1.0mm (layer F.Cu) (tedit 5A0F774F) (tstamp 5EEB5923)
-    (at 237.2 118.01)
+    (at 239.06 118.18)
     (descr "SMD rectangular pad as test Point, square 1.0mm side length")
     (tags "test point SMD pad rectangle square")
     (path /5F349895/6070428F)
@@ -17813,7 +17813,7 @@
   )
 
   (module TestPoint:TestPoint_Pad_1.0x1.0mm (layer F.Cu) (tedit 5A0F774F) (tstamp 5EEB5887)
-    (at 228.18 129.92)
+    (at 229.59 129.92)
     (descr "SMD rectangular pad as test Point, square 1.0mm side length")
     (tags "test point SMD pad rectangle square")
     (path /5F349895/5F5B8637)
@@ -17840,7 +17840,7 @@
   )
 
   (module TestPoint:TestPoint_Pad_1.0x1.0mm (layer F.Cu) (tedit 5A0F774F) (tstamp 5EEB5839)
-    (at 244.39 129.91)
+    (at 245.8 129.91)
     (descr "SMD rectangular pad as test Point, square 1.0mm side length")
     (tags "test point SMD pad rectangle square")
     (path /5F349895/607042AE)
@@ -18834,7 +18834,7 @@
   )
 
   (module Package_SO:VSSOP-10_3x3mm_P0.5mm (layer F.Cu) (tedit 5D9F72B2) (tstamp 5EEE059B)
-    (at 237.275 130.625)
+    (at 238.685 130.625)
     (descr "VSSOP, 10 Pin (http://www.ti.com/lit/ds/symlink/ads1115.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "VSSOP SO")
     (path /5EEAF65F/5EDDD78D)
@@ -19779,12 +19779,12 @@
   )
 
   (module Package_SO:SOIC-8_3.9x4.9mm_P1.27mm (layer F.Cu) (tedit 5D9F72B1) (tstamp 5EEB4CF0)
-    (at 236.475 123.905)
+    (at 237.885 123.905)
     (descr "SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "SOIC SO")
     (path /5F349895/5F6FC92F)
     (attr smd)
-    (fp_text reference U28 (at -1.755 -3.455) (layer F.SilkS)
+    (fp_text reference U28 (at -1.775 -3.355) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value LM358 (at 0 3.4) (layer F.Fab)
