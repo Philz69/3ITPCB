@@ -37,7 +37,7 @@
   )
 
   (setup
-    (last_trace_width 1.6)
+    (last_trace_width 0.2)
     (user_trace_width 1.6)
     (trace_clearance 0.2)
     (zone_clearance 0.508)
@@ -2287,7 +2287,7 @@
   )
 
   (module TestPoint:TestPoint_Pad_1.0x1.0mm (layer F.Cu) (tedit 5A0F774F) (tstamp 5EEC3C05)
-    (at 366.25 158.25)
+    (at 366.25 159)
     (descr "SMD rectangular pad as test Point, square 1.0mm side length")
     (tags "test point SMD pad rectangle square")
     (path /5EFA1964/5EF2AA56)
@@ -14898,7 +14898,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 5EEC4BC2)
-    (at 254.23 125 270)
+    (at 254.23 123 270)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags resistor)
     (path /60B86F60/5ECD854D)
@@ -14934,7 +14934,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 5EEC4AA2)
-    (at 254.23 128.18 270)
+    (at 254.23 126.18 270)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags resistor)
     (path /60B86F60/5ECD4491)
@@ -15042,7 +15042,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 5EEC4B32)
-    (at 254.59 120.94 90)
+    (at 254.59 118.94 90)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags resistor)
     (path /60B86F60/5ECE10E0)
