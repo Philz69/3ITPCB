@@ -18,8 +18,6 @@ Text HLabel 2850 2100 1    50   Input ~ 0
 Text HLabel 8100 2600 1    50   Input ~ 0
 VIN
 Wire Wire Line
-	8100 4100 8100 4350
-Wire Wire Line
 	5200 3800 5250 3800
 $Comp
 L Amplifier_Operational:LM358 U?
@@ -388,17 +386,6 @@ $EndComp
 Wire Wire Line
 	7450 3900 7450 4100
 $Comp
-L power:GNDA #PWR0206
-U 1 1 610FD9E1
-P 8100 4350
-F 0 "#PWR0206" H 8100 4100 50  0001 C CNN
-F 1 "GNDA" H 8105 4177 50  0000 C CNN
-F 2 "" H 8100 4350 50  0001 C CNN
-F 3 "" H 8100 4350 50  0001 C CNN
-	1    8100 4350
-	1    0    0    -1  
-$EndComp
-$Comp
 L power:GNDA #PWR0204
 U 1 1 610FDDC3
 P 7450 4400
@@ -461,19 +448,8 @@ F 3 "~" H 8300 3700 50  0001 C CNN
 	1    8300 3700
 	1    0    0    -1  
 $EndComp
-$Comp
-L Connector:Screw_Terminal_01x01 J17
-U 1 1 61965D06
-P 8300 4100
-F 0 "J17" H 8380 4142 50  0000 L CNN
-F 1 "PowerMosSource" H 8380 4051 50  0000 L CNN
-F 2 "PCB:30ATerminal" H 8300 4100 50  0001 C CNN
-F 3 "~" H 8300 4100 50  0001 C CNN
-	1    8300 4100
-	1    0    0    -1  
-$EndComp
 Text Notes 8750 4000 0    50   ~ 0
-To a IXFN360N10T power mosfet\n
+To a IXFN360N10T power mosfet\nSource connected to the 100W_ch-\n
 $Comp
 L Device:R R?
 U 1 1 6196AB77
