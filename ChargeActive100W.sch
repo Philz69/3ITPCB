@@ -644,10 +644,10 @@ Wire Wire Line
 	4400 3750 4850 3750
 Connection ~ 4850 3750
 $Comp
-L Connector:TestPoint TPV-1
+L Connector:TestPoint V-3
 U 1 1 5EF281AD
 P 4100 4000
-F 0 "TPV-1" H 4158 4118 50  0000 L CNN
+F 0 "V-3" H 4158 4118 50  0000 L CNN
 F 1 "TestPoint" H 4158 4027 50  0000 L CNN
 F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 4300 4000 50  0001 C CNN
 F 3 "~" H 4300 4000 50  0001 C CNN
@@ -655,10 +655,10 @@ F 3 "~" H 4300 4000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:TestPoint TPV+1
+L Connector:TestPoint V+3
 U 1 1 5EF2916C
 P 5200 3350
-F 0 "TPV+1" H 5258 3468 50  0000 L CNN
+F 0 "V+3" H 5258 3468 50  0000 L CNN
 F 1 "TestPoint" H 5258 3377 50  0000 L CNN
 F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 5400 3350 50  0001 C CNN
 F 3 "~" H 5400 3350 50  0001 C CNN
@@ -667,10 +667,10 @@ F 3 "~" H 5400 3350 50  0001 C CNN
 $EndComp
 Connection ~ 5200 3350
 $Comp
-L Connector:TestPoint TPVAD1
+L Connector:TestPoint VAD3
 U 1 1 5EF29675
 P 5300 2850
-F 0 "TPVAD1" H 5358 2968 50  0000 L CNN
+F 0 "VAD3" H 5358 2968 50  0000 L CNN
 F 1 "TestPoint" H 5358 2877 50  0000 L CNN
 F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 5500 2850 50  0001 C CNN
 F 3 "~" H 5500 2850 50  0001 C CNN
@@ -681,10 +681,10 @@ Connection ~ 5300 2850
 Wire Wire Line
 	5300 2850 8100 2850
 $Comp
-L Connector:TestPoint TPVGS1
+L Connector:TestPoint VGS3
 U 1 1 5EF29845
 P 7200 3900
-F 0 "TPVGS1" H 7258 4018 50  0000 L CNN
+F 0 "VGS3" H 7258 4018 50  0000 L CNN
 F 1 "TestPoint" H 7258 3927 50  0000 L CNN
 F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 7400 3900 50  0001 C CNN
 F 3 "~" H 7400 3900 50  0001 C CNN
@@ -692,10 +692,10 @@ F 3 "~" H 7400 3900 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:TestPoint TPOA1
+L Connector:TestPoint OA1
 U 1 1 5EF2AA56
 P 5900 3900
-F 0 "TPOA1" H 5958 4018 50  0000 L CNN
+F 0 "OA1" H 5958 4018 50  0000 L CNN
 F 1 "TestPoint" H 5958 3927 50  0000 L CNN
 F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 6100 3900 50  0001 C CNN
 F 3 "~" H 6100 3900 50  0001 C CNN
@@ -703,10 +703,10 @@ F 3 "~" H 6100 3900 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:TestPoint TPOB1
+L Connector:TestPoint OB1
 U 1 1 5EF2C651
 P 5900 4550
-F 0 "TPOB1" H 5958 4668 50  0000 L CNN
+F 0 "OB1" H 5958 4668 50  0000 L CNN
 F 1 "TestPoint" H 5958 4577 50  0000 L CNN
 F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 6100 4550 50  0001 C CNN
 F 3 "~" H 6100 4550 50  0001 C CNN
