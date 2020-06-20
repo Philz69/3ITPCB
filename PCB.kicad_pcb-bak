@@ -18,7 +18,7 @@
   )
 
   (layers
-    (0 F.Cu mixed hide)
+    (0 F.Cu mixed)
     (1 In1_Vert.Cu signal hide)
     (2 In2_Hor.Cu signal hide)
     (31 B.Cu power hide)
@@ -37,7 +37,7 @@
   )
 
   (setup
-    (last_trace_width 13)
+    (last_trace_width 0.2)
     (user_trace_width 0.2)
     (user_trace_width 0.5)
     (user_trace_width 1)
@@ -4518,8 +4518,8 @@
     )
   )
 
-  (module Capacitor_SMD:C_0402_1005Metric (layer F.Cu) (tedit 5B301BBE) (tstamp 5EEBAB3E)
-    (at 281 159.5 90)
+  (module Capacitor_SMD:C_0402_1005Metric (layer F.Cu) (tedit 5B301BBE) (tstamp 5EEF0254)
+    (at 288.05 154.15 90)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /5EF8B1F5/5EF90CFC/5EFFBFAF)
@@ -4552,8 +4552,8 @@
     )
   )
 
-  (module Capacitor_SMD:C_0402_1005Metric (layer F.Cu) (tedit 5B301BBE) (tstamp 5EEBAC64)
-    (at 288 159.5 90)
+  (module Capacitor_SMD:C_0402_1005Metric (layer F.Cu) (tedit 5B301BBE) (tstamp 5EEF022A)
+    (at 295.05 154.15 90)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /5EF8B1F5/5EF90CFC/5ED04111)
@@ -19743,8 +19743,8 @@
     )
   )
 
-  (module Package_SO:TSSOP-16_4.4x5mm_P0.65mm (layer F.Cu) (tedit 5A02F25C) (tstamp 5EEE6BFF)
-    (at 284.5 160.75 270)
+  (module Package_SO:TSSOP-16_4.4x5mm_P0.65mm (layer F.Cu) (tedit 5A02F25C) (tstamp 5EEF01DE)
+    (at 291.55 155.4 270)
     (descr "16-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body [TSSOP] (see Microchip Packaging Specification 00000049BS.pdf)")
     (tags "SSOP 0.65")
     (path /5EF8B1F5/5EF90CFC/5EFFBFA1)
@@ -19808,8 +19808,8 @@
     )
   )
 
-  (module Package_SO:TSSOP-16_4.4x5mm_P0.65mm (layer F.Cu) (tedit 5A02F25C) (tstamp 5EEB47AD)
-    (at 291.5 160.75 270)
+  (module Package_SO:TSSOP-16_4.4x5mm_P0.65mm (layer F.Cu) (tedit 5A02F25C) (tstamp 5EEF0181)
+    (at 298.55 155.4 270)
     (descr "16-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body [TSSOP] (see Microchip Packaging Specification 00000049BS.pdf)")
     (tags "SSOP 0.65")
     (path /5EF8B1F5/5EF90CFC/5EFCEF61)
@@ -31856,27 +31856,27 @@
       )
     )
   )
-  (zone (net 120) (net_name /VinActif100W) (layer F.Cu) (tstamp 0) (hatch edge 0.508)
+  (zone (net 120) (net_name /VinActif100W) (layer F.Cu) (tstamp 5EEEFE87) (hatch edge 0.508)
     (priority 2)
     (connect_pads (clearance 0.25))
     (min_thickness 0.2)
     (fill yes (arc_segments 32) (thermal_gap 0.25) (thermal_bridge_width 1) (smoothing fillet) (radius 0.5))
     (polygon
       (pts
-        (xy 319 179.5) (xy 302.8 179.5) (xy 292.3 171.9) (xy 292.3 168.8) (xy 294.2 168.8)
-        (xy 294.2 171) (xy 299.1 171) (xy 299.1 168.6) (xy 302.8 167) (xy 319 167)
+        (xy 319 168.1) (xy 302.8 168.1) (xy 292.3 160.5) (xy 292.3 157.4) (xy 294.2 157.4)
+        (xy 294.2 159.6) (xy 299.1 159.6) (xy 299.1 157.2) (xy 302.8 155.6) (xy 319 155.6)
       )
     )
   )
-  (zone (net 46) (net_name /VoutActif100W) (layer F.Cu) (tstamp 5EEE6E42) (hatch edge 0.508)
+  (zone (net 46) (net_name /VoutActif100W) (layer F.Cu) (tstamp 5EEEFE84) (hatch edge 0.508)
     (priority 2)
     (connect_pads (clearance 0.25))
     (min_thickness 0.2)
     (fill yes (arc_segments 32) (thermal_gap 0.25) (thermal_bridge_width 1) (smoothing fillet) (radius 0.5))
     (polygon
       (pts
-        (xy 319 154) (xy 302.8 154) (xy 292.3 161.6) (xy 292.3 164.7) (xy 294.2 164.7)
-        (xy 294.2 162.5) (xy 299.1 162.5) (xy 299.1 164.9) (xy 302.8 166.5) (xy 319 166.5)
+        (xy 319 142.6) (xy 302.8 142.6) (xy 292.3 150.2) (xy 292.3 153.3) (xy 294.2 153.3)
+        (xy 294.2 151.1) (xy 299.1 151.1) (xy 299.1 153.5) (xy 302.8 155.1) (xy 319 155.1)
       )
     )
   )
