@@ -4519,7 +4519,7 @@
   )
 
   (module Capacitor_SMD:C_0402_1005Metric (layer F.Cu) (tedit 5B301BBE) (tstamp 5EEF0254)
-    (at 288.05 154.15 90)
+    (at 287.85 154.375 90)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /5EF8B1F5/5EF90CFC/5EFFBFAF)
@@ -4553,7 +4553,7 @@
   )
 
   (module Capacitor_SMD:C_0402_1005Metric (layer F.Cu) (tedit 5B301BBE) (tstamp 5EEF022A)
-    (at 295.05 154.15 90)
+    (at 294.85 154.375 90)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /5EF8B1F5/5EF90CFC/5ED04111)
@@ -19744,7 +19744,7 @@
   )
 
   (module Package_SO:TSSOP-16_4.4x5mm_P0.65mm (layer F.Cu) (tedit 5A02F25C) (tstamp 5EEF01DE)
-    (at 291.55 155.4 270)
+    (at 291.35 155.625 270)
     (descr "16-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body [TSSOP] (see Microchip Packaging Specification 00000049BS.pdf)")
     (tags "SSOP 0.65")
     (path /5EF8B1F5/5EF90CFC/5EFFBFA1)
@@ -19809,7 +19809,7 @@
   )
 
   (module Package_SO:TSSOP-16_4.4x5mm_P0.65mm (layer F.Cu) (tedit 5A02F25C) (tstamp 5EEF0181)
-    (at 298.55 155.4 270)
+    (at 298.35 155.625 270)
     (descr "16-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body [TSSOP] (see Microchip Packaging Specification 00000049BS.pdf)")
     (tags "SSOP 0.65")
     (path /5EF8B1F5/5EF90CFC/5EFCEF61)
@@ -31863,8 +31863,8 @@
     (fill yes (arc_segments 32) (thermal_gap 0.25) (thermal_bridge_width 1) (smoothing fillet) (radius 0.5))
     (polygon
       (pts
-        (xy 319 168.1) (xy 302.8 168.1) (xy 292.3 160.5) (xy 292.3 157.4) (xy 294.2 157.4)
-        (xy 294.2 159.6) (xy 299.1 159.6) (xy 299.1 157.2) (xy 302.8 155.6) (xy 319 155.6)
+        (xy 318.8 168.325) (xy 302.6 168.325) (xy 292.1 160.725) (xy 292.1 157.625) (xy 294 157.625)
+        (xy 294 159.825) (xy 298.9 159.825) (xy 298.9 157.425) (xy 302.6 155.825) (xy 318.8 155.825)
       )
     )
   )
@@ -31875,8 +31875,8 @@
     (fill yes (arc_segments 32) (thermal_gap 0.25) (thermal_bridge_width 1) (smoothing fillet) (radius 0.5))
     (polygon
       (pts
-        (xy 319 142.6) (xy 302.8 142.6) (xy 292.3 150.2) (xy 292.3 153.3) (xy 294.2 153.3)
-        (xy 294.2 151.1) (xy 299.1 151.1) (xy 299.1 153.5) (xy 302.8 155.1) (xy 319 155.1)
+        (xy 318.8 142.825) (xy 302.6 142.825) (xy 292.1 150.425) (xy 292.1 153.525) (xy 294 153.525)
+        (xy 294 151.325) (xy 298.9 151.325) (xy 298.9 153.725) (xy 302.6 155.325) (xy 318.8 155.325)
       )
     )
   )
