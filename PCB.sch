@@ -1800,8 +1800,6 @@ F 3 "" H 17350 5100 50  0001 C CNN
 	1    17350 5100
 	1    0    0    -1  
 $EndComp
-Text Label 18200 4450 0    50   ~ 0
-+5VPI
 Wire Wire Line
 	18200 4450 18050 4450
 Wire Wire Line
@@ -1842,8 +1840,6 @@ F 3 "~" H 19350 4450 50  0001 C CNN
 	1    19350 4450
 	1    0    0    -1  
 $EndComp
-Text Label 18850 4450 2    50   ~ 0
-+5VPI
 Wire Wire Line
 	19150 4450 18850 4450
 Wire Wire Line
@@ -3714,4 +3710,6 @@ Wire Wire Line
 	36850 4600 36950 4600
 Wire Wire Line
 	18100 16850 18600 16850
+Text Label 18200 4450 0    50   ~ 0
++5VPI
 $EndSCHEMATC
