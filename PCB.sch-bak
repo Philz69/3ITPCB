@@ -1800,8 +1800,6 @@ F 3 "" H 17350 5100 50  0001 C CNN
 	1    17350 5100
 	1    0    0    -1  
 $EndComp
-Text Label 18200 4450 0    50   ~ 0
-+5VPI
 Wire Wire Line
 	18200 4450 18050 4450
 Wire Wire Line
@@ -1842,8 +1840,6 @@ F 3 "~" H 19350 4450 50  0001 C CNN
 	1    19350 4450
 	1    0    0    -1  
 $EndComp
-Text Label 18300 4500 2    50   ~ 0
-+5VPI
 Wire Wire Line
 	19150 4450 18850 4450
 Wire Wire Line
@@ -2000,230 +1996,6 @@ Wire Wire Line
 	10650 2650 10950 2650
 Wire Wire Line
 	11250 2650 11550 2650
-$Comp
-L Connector:TestPoint TPVP?
-U 1 1 5F2DC24A
-P 3600 16000
-AR Path="/5EBDFBAE/5F2DC24A" Ref="TPVP?"  Part="1" 
-AR Path="/5EC0778F/5F2DC24A" Ref="TPVP?"  Part="1" 
-AR Path="/5ECCDD4B/5F2DC24A" Ref="TPVP?"  Part="1" 
-AR Path="/5ECD7158/5F2DC24A" Ref="TPVP?"  Part="1" 
-AR Path="/5ECE0B35/5F2DC24A" Ref="TPVP?"  Part="1" 
-AR Path="/5EC21102/5F2DC24A" Ref="TPVP?"  Part="1" 
-AR Path="/5EC2114E/5F2DC24A" Ref="TPVP?"  Part="1" 
-AR Path="/5EC2119A/5F2DC24A" Ref="TPVP?"  Part="1" 
-AR Path="/5EC211E6/5F2DC24A" Ref="TPVP?"  Part="1" 
-AR Path="/5EC536EA/5F2DC24A" Ref="TPVP?"  Part="1" 
-AR Path="/5EC60ECA/5F2DC24A" Ref="TPVP?"  Part="1" 
-AR Path="/5EC6E362/5F2DC24A" Ref="TPVP?"  Part="1" 
-AR Path="/5EC7BA20/5F2DC24A" Ref="TPVP?"  Part="1" 
-AR Path="/5EC88F26/5F2DC24A" Ref="TPVP?"  Part="1" 
-AR Path="/5EC96422/5F2DC24A" Ref="TPVP?"  Part="1" 
-AR Path="/5ECA39A0/5F2DC24A" Ref="TPVP?"  Part="1" 
-AR Path="/5F466AC8/5F2DC24A" Ref="TPVP?"  Part="1" 
-AR Path="/5F466B4B/5F2DC24A" Ref="TPVP?"  Part="1" 
-AR Path="/5F466B56/5F2DC24A" Ref="TPVP?"  Part="1" 
-AR Path="/5F466B61/5F2DC24A" Ref="TPVP?"  Part="1" 
-AR Path="/5F2DC24A" Ref="TPVP2"  Part="1" 
-F 0 "TPVP2" V 3550 16200 50  0000 L CNN
-F 1 "TestPoint" V 3650 16200 50  0000 L CNN
-F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 3800 16000 50  0001 C CNN
-F 3 "~" H 3800 16000 50  0001 C CNN
-	1    3600 16000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TPVP?
-U 1 1 5F324FEA
-P 3600 16550
-AR Path="/5EBDFBAE/5F324FEA" Ref="TPVP?"  Part="1" 
-AR Path="/5EC0778F/5F324FEA" Ref="TPVP?"  Part="1" 
-AR Path="/5ECCDD4B/5F324FEA" Ref="TPVP?"  Part="1" 
-AR Path="/5ECD7158/5F324FEA" Ref="TPVP?"  Part="1" 
-AR Path="/5ECE0B35/5F324FEA" Ref="TPVP?"  Part="1" 
-AR Path="/5EC21102/5F324FEA" Ref="TPVP?"  Part="1" 
-AR Path="/5EC2114E/5F324FEA" Ref="TPVP?"  Part="1" 
-AR Path="/5EC2119A/5F324FEA" Ref="TPVP?"  Part="1" 
-AR Path="/5EC211E6/5F324FEA" Ref="TPVP?"  Part="1" 
-AR Path="/5EC536EA/5F324FEA" Ref="TPVP?"  Part="1" 
-AR Path="/5EC60ECA/5F324FEA" Ref="TPVP?"  Part="1" 
-AR Path="/5EC6E362/5F324FEA" Ref="TPVP?"  Part="1" 
-AR Path="/5EC7BA20/5F324FEA" Ref="TPVP?"  Part="1" 
-AR Path="/5EC88F26/5F324FEA" Ref="TPVP?"  Part="1" 
-AR Path="/5EC96422/5F324FEA" Ref="TPVP?"  Part="1" 
-AR Path="/5ECA39A0/5F324FEA" Ref="TPVP?"  Part="1" 
-AR Path="/5F466AC8/5F324FEA" Ref="TPVP?"  Part="1" 
-AR Path="/5F466B4B/5F324FEA" Ref="TPVP?"  Part="1" 
-AR Path="/5F466B56/5F324FEA" Ref="TPVP?"  Part="1" 
-AR Path="/5F466B61/5F324FEA" Ref="TPVP?"  Part="1" 
-AR Path="/5F324FEA" Ref="TPVP3"  Part="1" 
-F 0 "TPVP3" V 3550 16750 50  0000 L CNN
-F 1 "TestPoint" V 3650 16750 50  0000 L CNN
-F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 3800 16550 50  0001 C CNN
-F 3 "~" H 3800 16550 50  0001 C CNN
-	1    3600 16550
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TPVP?
-U 1 1 5F36DC8B
-P 3600 17100
-AR Path="/5EBDFBAE/5F36DC8B" Ref="TPVP?"  Part="1" 
-AR Path="/5EC0778F/5F36DC8B" Ref="TPVP?"  Part="1" 
-AR Path="/5ECCDD4B/5F36DC8B" Ref="TPVP?"  Part="1" 
-AR Path="/5ECD7158/5F36DC8B" Ref="TPVP?"  Part="1" 
-AR Path="/5ECE0B35/5F36DC8B" Ref="TPVP?"  Part="1" 
-AR Path="/5EC21102/5F36DC8B" Ref="TPVP?"  Part="1" 
-AR Path="/5EC2114E/5F36DC8B" Ref="TPVP?"  Part="1" 
-AR Path="/5EC2119A/5F36DC8B" Ref="TPVP?"  Part="1" 
-AR Path="/5EC211E6/5F36DC8B" Ref="TPVP?"  Part="1" 
-AR Path="/5EC536EA/5F36DC8B" Ref="TPVP?"  Part="1" 
-AR Path="/5EC60ECA/5F36DC8B" Ref="TPVP?"  Part="1" 
-AR Path="/5EC6E362/5F36DC8B" Ref="TPVP?"  Part="1" 
-AR Path="/5EC7BA20/5F36DC8B" Ref="TPVP?"  Part="1" 
-AR Path="/5EC88F26/5F36DC8B" Ref="TPVP?"  Part="1" 
-AR Path="/5EC96422/5F36DC8B" Ref="TPVP?"  Part="1" 
-AR Path="/5ECA39A0/5F36DC8B" Ref="TPVP?"  Part="1" 
-AR Path="/5F466AC8/5F36DC8B" Ref="TPVP?"  Part="1" 
-AR Path="/5F466B4B/5F36DC8B" Ref="TPVP?"  Part="1" 
-AR Path="/5F466B56/5F36DC8B" Ref="TPVP?"  Part="1" 
-AR Path="/5F466B61/5F36DC8B" Ref="TPVP?"  Part="1" 
-AR Path="/5F36DC8B" Ref="TPVP4"  Part="1" 
-F 0 "TPVP4" V 3550 17300 50  0000 L CNN
-F 1 "TestPoint" V 3650 17300 50  0000 L CNN
-F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 3800 17100 50  0001 C CNN
-F 3 "~" H 3800 17100 50  0001 C CNN
-	1    3600 17100
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TPVP?
-U 1 1 5F3B68DE
-P 3600 17650
-AR Path="/5EBDFBAE/5F3B68DE" Ref="TPVP?"  Part="1" 
-AR Path="/5EC0778F/5F3B68DE" Ref="TPVP?"  Part="1" 
-AR Path="/5ECCDD4B/5F3B68DE" Ref="TPVP?"  Part="1" 
-AR Path="/5ECD7158/5F3B68DE" Ref="TPVP?"  Part="1" 
-AR Path="/5ECE0B35/5F3B68DE" Ref="TPVP?"  Part="1" 
-AR Path="/5EC21102/5F3B68DE" Ref="TPVP?"  Part="1" 
-AR Path="/5EC2114E/5F3B68DE" Ref="TPVP?"  Part="1" 
-AR Path="/5EC2119A/5F3B68DE" Ref="TPVP?"  Part="1" 
-AR Path="/5EC211E6/5F3B68DE" Ref="TPVP?"  Part="1" 
-AR Path="/5EC536EA/5F3B68DE" Ref="TPVP?"  Part="1" 
-AR Path="/5EC60ECA/5F3B68DE" Ref="TPVP?"  Part="1" 
-AR Path="/5EC6E362/5F3B68DE" Ref="TPVP?"  Part="1" 
-AR Path="/5EC7BA20/5F3B68DE" Ref="TPVP?"  Part="1" 
-AR Path="/5EC88F26/5F3B68DE" Ref="TPVP?"  Part="1" 
-AR Path="/5EC96422/5F3B68DE" Ref="TPVP?"  Part="1" 
-AR Path="/5ECA39A0/5F3B68DE" Ref="TPVP?"  Part="1" 
-AR Path="/5F466AC8/5F3B68DE" Ref="TPVP?"  Part="1" 
-AR Path="/5F466B4B/5F3B68DE" Ref="TPVP?"  Part="1" 
-AR Path="/5F466B56/5F3B68DE" Ref="TPVP?"  Part="1" 
-AR Path="/5F466B61/5F3B68DE" Ref="TPVP?"  Part="1" 
-AR Path="/5F3B68DE" Ref="TPVP5"  Part="1" 
-F 0 "TPVP5" V 3550 17850 50  0000 L CNN
-F 1 "TestPoint" V 3650 17850 50  0000 L CNN
-F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 3800 17650 50  0001 C CNN
-F 3 "~" H 3800 17650 50  0001 C CNN
-	1    3600 17650
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TPVP?
-U 1 1 5F3FF540
-P 3600 18200
-AR Path="/5EBDFBAE/5F3FF540" Ref="TPVP?"  Part="1" 
-AR Path="/5EC0778F/5F3FF540" Ref="TPVP?"  Part="1" 
-AR Path="/5ECCDD4B/5F3FF540" Ref="TPVP?"  Part="1" 
-AR Path="/5ECD7158/5F3FF540" Ref="TPVP?"  Part="1" 
-AR Path="/5ECE0B35/5F3FF540" Ref="TPVP?"  Part="1" 
-AR Path="/5EC21102/5F3FF540" Ref="TPVP?"  Part="1" 
-AR Path="/5EC2114E/5F3FF540" Ref="TPVP?"  Part="1" 
-AR Path="/5EC2119A/5F3FF540" Ref="TPVP?"  Part="1" 
-AR Path="/5EC211E6/5F3FF540" Ref="TPVP?"  Part="1" 
-AR Path="/5EC536EA/5F3FF540" Ref="TPVP?"  Part="1" 
-AR Path="/5EC60ECA/5F3FF540" Ref="TPVP?"  Part="1" 
-AR Path="/5EC6E362/5F3FF540" Ref="TPVP?"  Part="1" 
-AR Path="/5EC7BA20/5F3FF540" Ref="TPVP?"  Part="1" 
-AR Path="/5EC88F26/5F3FF540" Ref="TPVP?"  Part="1" 
-AR Path="/5EC96422/5F3FF540" Ref="TPVP?"  Part="1" 
-AR Path="/5ECA39A0/5F3FF540" Ref="TPVP?"  Part="1" 
-AR Path="/5F466AC8/5F3FF540" Ref="TPVP?"  Part="1" 
-AR Path="/5F466B4B/5F3FF540" Ref="TPVP?"  Part="1" 
-AR Path="/5F466B56/5F3FF540" Ref="TPVP?"  Part="1" 
-AR Path="/5F466B61/5F3FF540" Ref="TPVP?"  Part="1" 
-AR Path="/5F3FF540" Ref="TPVP6"  Part="1" 
-F 0 "TPVP6" V 3550 18400 50  0000 L CNN
-F 1 "TestPoint" V 3650 18400 50  0000 L CNN
-F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 3800 18200 50  0001 C CNN
-F 3 "~" H 3800 18200 50  0001 C CNN
-	1    3600 18200
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TPVP?
-U 1 1 5F448248
-P 3600 18750
-AR Path="/5EBDFBAE/5F448248" Ref="TPVP?"  Part="1" 
-AR Path="/5EC0778F/5F448248" Ref="TPVP?"  Part="1" 
-AR Path="/5ECCDD4B/5F448248" Ref="TPVP?"  Part="1" 
-AR Path="/5ECD7158/5F448248" Ref="TPVP?"  Part="1" 
-AR Path="/5ECE0B35/5F448248" Ref="TPVP?"  Part="1" 
-AR Path="/5EC21102/5F448248" Ref="TPVP?"  Part="1" 
-AR Path="/5EC2114E/5F448248" Ref="TPVP?"  Part="1" 
-AR Path="/5EC2119A/5F448248" Ref="TPVP?"  Part="1" 
-AR Path="/5EC211E6/5F448248" Ref="TPVP?"  Part="1" 
-AR Path="/5EC536EA/5F448248" Ref="TPVP?"  Part="1" 
-AR Path="/5EC60ECA/5F448248" Ref="TPVP?"  Part="1" 
-AR Path="/5EC6E362/5F448248" Ref="TPVP?"  Part="1" 
-AR Path="/5EC7BA20/5F448248" Ref="TPVP?"  Part="1" 
-AR Path="/5EC88F26/5F448248" Ref="TPVP?"  Part="1" 
-AR Path="/5EC96422/5F448248" Ref="TPVP?"  Part="1" 
-AR Path="/5ECA39A0/5F448248" Ref="TPVP?"  Part="1" 
-AR Path="/5F466AC8/5F448248" Ref="TPVP?"  Part="1" 
-AR Path="/5F466B4B/5F448248" Ref="TPVP?"  Part="1" 
-AR Path="/5F466B56/5F448248" Ref="TPVP?"  Part="1" 
-AR Path="/5F466B61/5F448248" Ref="TPVP?"  Part="1" 
-AR Path="/5F448248" Ref="TPVP7"  Part="1" 
-F 0 "TPVP7" V 3550 18950 50  0000 L CNN
-F 1 "TestPoint" V 3650 18950 50  0000 L CNN
-F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 3800 18750 50  0001 C CNN
-F 3 "~" H 3800 18750 50  0001 C CNN
-	1    3600 18750
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TPVP?
-U 1 1 5F490F00
-P 3600 19300
-AR Path="/5EBDFBAE/5F490F00" Ref="TPVP?"  Part="1" 
-AR Path="/5EC0778F/5F490F00" Ref="TPVP?"  Part="1" 
-AR Path="/5ECCDD4B/5F490F00" Ref="TPVP?"  Part="1" 
-AR Path="/5ECD7158/5F490F00" Ref="TPVP?"  Part="1" 
-AR Path="/5ECE0B35/5F490F00" Ref="TPVP?"  Part="1" 
-AR Path="/5EC21102/5F490F00" Ref="TPVP?"  Part="1" 
-AR Path="/5EC2114E/5F490F00" Ref="TPVP?"  Part="1" 
-AR Path="/5EC2119A/5F490F00" Ref="TPVP?"  Part="1" 
-AR Path="/5EC211E6/5F490F00" Ref="TPVP?"  Part="1" 
-AR Path="/5EC536EA/5F490F00" Ref="TPVP?"  Part="1" 
-AR Path="/5EC60ECA/5F490F00" Ref="TPVP?"  Part="1" 
-AR Path="/5EC6E362/5F490F00" Ref="TPVP?"  Part="1" 
-AR Path="/5EC7BA20/5F490F00" Ref="TPVP?"  Part="1" 
-AR Path="/5EC88F26/5F490F00" Ref="TPVP?"  Part="1" 
-AR Path="/5EC96422/5F490F00" Ref="TPVP?"  Part="1" 
-AR Path="/5ECA39A0/5F490F00" Ref="TPVP?"  Part="1" 
-AR Path="/5F466AC8/5F490F00" Ref="TPVP?"  Part="1" 
-AR Path="/5F466B4B/5F490F00" Ref="TPVP?"  Part="1" 
-AR Path="/5F466B56/5F490F00" Ref="TPVP?"  Part="1" 
-AR Path="/5F466B61/5F490F00" Ref="TPVP?"  Part="1" 
-AR Path="/5F490F00" Ref="TPVP8"  Part="1" 
-F 0 "TPVP8" V 3550 19500 50  0000 L CNN
-F 1 "TestPoint" V 3650 19500 50  0000 L CNN
-F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 3800 19300 50  0001 C CNN
-F 3 "~" H 3800 19300 50  0001 C CNN
-	1    3600 19300
-	1    0    0    -1  
-$EndComp
 $Comp
 L Device:C C8
 U 1 1 5EED12FE
@@ -2410,40 +2182,6 @@ F1 "ChanelProtection.sch" 50
 F2 "Input" U L 3750 15450 50 
 F3 "Output" U R 4400 15450 50 
 $EndSheet
-$Comp
-L Connector:TestPoint TPVP?
-U 1 1 5F16EC76
-P 3600 15450
-AR Path="/5EBDFBAE/5F16EC76" Ref="TPVP?"  Part="1" 
-AR Path="/5EC0778F/5F16EC76" Ref="TPVP?"  Part="1" 
-AR Path="/5ECCDD4B/5F16EC76" Ref="TPVP?"  Part="1" 
-AR Path="/5ECD7158/5F16EC76" Ref="TPVP?"  Part="1" 
-AR Path="/5ECE0B35/5F16EC76" Ref="TPVP?"  Part="1" 
-AR Path="/5EC21102/5F16EC76" Ref="TPVP?"  Part="1" 
-AR Path="/5EC2114E/5F16EC76" Ref="TPVP?"  Part="1" 
-AR Path="/5EC2119A/5F16EC76" Ref="TPVP?"  Part="1" 
-AR Path="/5EC211E6/5F16EC76" Ref="TPVP?"  Part="1" 
-AR Path="/5EC536EA/5F16EC76" Ref="TPVP?"  Part="1" 
-AR Path="/5EC60ECA/5F16EC76" Ref="TPVP?"  Part="1" 
-AR Path="/5EC6E362/5F16EC76" Ref="TPVP?"  Part="1" 
-AR Path="/5EC7BA20/5F16EC76" Ref="TPVP?"  Part="1" 
-AR Path="/5EC88F26/5F16EC76" Ref="TPVP?"  Part="1" 
-AR Path="/5EC96422/5F16EC76" Ref="TPVP?"  Part="1" 
-AR Path="/5ECA39A0/5F16EC76" Ref="TPVP?"  Part="1" 
-AR Path="/5F466AC8/5F16EC76" Ref="TPVP?"  Part="1" 
-AR Path="/5F466B4B/5F16EC76" Ref="TPVP?"  Part="1" 
-AR Path="/5F466B56/5F16EC76" Ref="TPVP?"  Part="1" 
-AR Path="/5F466B61/5F16EC76" Ref="TPVP?"  Part="1" 
-AR Path="/5F16EC76" Ref="TPVP1"  Part="1" 
-F 0 "TPVP1" V 3550 15650 50  0000 L CNN
-F 1 "TestPoint" V 3650 15650 50  0000 L CNN
-F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 3800 15450 50  0001 C CNN
-F 3 "~" H 3800 15450 50  0001 C CNN
-	1    3600 15450
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	1400 15450 3600 15450
 $Sheet
 S 3750 15950 650  200 
 U 5FE75F52
@@ -2505,15 +2243,9 @@ Wire Wire Line
 Wire Wire Line
 	3450 15650 3450 16000
 Wire Wire Line
-	3450 16000 3600 16000
-Wire Wire Line
 	1400 15850 3250 15850
 Wire Wire Line
 	3250 15850 3250 16550
-Wire Wire Line
-	3250 16550 3600 16550
-Wire Wire Line
-	3750 17100 3600 17100
 Wire Wire Line
 	3050 17100 3050 16050
 Wire Wire Line
@@ -2523,10 +2255,6 @@ Wire Wire Line
 Wire Wire Line
 	2850 16250 2850 17650
 Wire Wire Line
-	2850 17650 3600 17650
-Wire Wire Line
-	3750 18200 3600 18200
-Wire Wire Line
 	2650 18200 2650 16450
 Wire Wire Line
 	2650 16450 1400 16450
@@ -2535,37 +2263,9 @@ Wire Wire Line
 Wire Wire Line
 	2450 16650 2450 18750
 Wire Wire Line
-	2450 18750 3600 18750
-Wire Wire Line
 	2250 19300 2250 16850
 Wire Wire Line
 	2250 16850 1400 16850
-Wire Wire Line
-	2250 19300 3600 19300
-Connection ~ 3600 15450
-Wire Wire Line
-	3600 15450 3750 15450
-Connection ~ 3600 16000
-Wire Wire Line
-	3600 16000 3750 16000
-Connection ~ 3600 16550
-Wire Wire Line
-	3600 16550 3750 16550
-Connection ~ 3600 17100
-Wire Wire Line
-	3600 17100 3050 17100
-Connection ~ 3600 17650
-Wire Wire Line
-	3600 17650 3750 17650
-Connection ~ 3600 18200
-Wire Wire Line
-	3600 18200 2650 18200
-Connection ~ 3600 18750
-Wire Wire Line
-	3600 18750 3750 18750
-Connection ~ 3600 19300
-Wire Wire Line
-	3600 19300 3750 19300
 Wire Wire Line
 	4400 15450 5550 15450
 Wire Wire Line
@@ -2642,230 +2342,6 @@ F 3 "~" H 18750 12200 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	18750 12000 19800 12000
-$Comp
-L Connector:TestPoint TPVA?
-U 1 1 6116B3E8
-P 18450 16300
-AR Path="/5EBDFBAE/6116B3E8" Ref="TPVA?"  Part="1" 
-AR Path="/5EC0778F/6116B3E8" Ref="TPVA?"  Part="1" 
-AR Path="/5ECCDD4B/6116B3E8" Ref="TPVA?"  Part="1" 
-AR Path="/5ECD7158/6116B3E8" Ref="TPVA?"  Part="1" 
-AR Path="/5ECE0B35/6116B3E8" Ref="TPVA?"  Part="1" 
-AR Path="/5EC21102/6116B3E8" Ref="TPVA?"  Part="1" 
-AR Path="/5EC2114E/6116B3E8" Ref="TPVA?"  Part="1" 
-AR Path="/5EC2119A/6116B3E8" Ref="TPVA?"  Part="1" 
-AR Path="/5EC211E6/6116B3E8" Ref="TPVA?"  Part="1" 
-AR Path="/5EC536EA/6116B3E8" Ref="TPVA?"  Part="1" 
-AR Path="/5EC60ECA/6116B3E8" Ref="TPVA?"  Part="1" 
-AR Path="/5EC6E362/6116B3E8" Ref="TPVA?"  Part="1" 
-AR Path="/5EC7BA20/6116B3E8" Ref="TPVA?"  Part="1" 
-AR Path="/5EC88F26/6116B3E8" Ref="TPVA?"  Part="1" 
-AR Path="/5EC96422/6116B3E8" Ref="TPVA?"  Part="1" 
-AR Path="/5ECA39A0/6116B3E8" Ref="TPVA?"  Part="1" 
-AR Path="/5F466AC8/6116B3E8" Ref="TPVA?"  Part="1" 
-AR Path="/5F466B4B/6116B3E8" Ref="TPVA?"  Part="1" 
-AR Path="/5F466B56/6116B3E8" Ref="TPVA?"  Part="1" 
-AR Path="/5F466B61/6116B3E8" Ref="TPVA?"  Part="1" 
-AR Path="/6116B3E8" Ref="TPVA2"  Part="1" 
-F 0 "TPVA2" V 18400 16500 50  0000 L CNN
-F 1 "TestPoint" V 18500 16500 50  0000 L CNN
-F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 18650 16300 50  0001 C CNN
-F 3 "~" H 18650 16300 50  0001 C CNN
-	1    18450 16300
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TPVA?
-U 1 1 6116B3F2
-P 18550 16800
-AR Path="/5EBDFBAE/6116B3F2" Ref="TPVA?"  Part="1" 
-AR Path="/5EC0778F/6116B3F2" Ref="TPVA?"  Part="1" 
-AR Path="/5ECCDD4B/6116B3F2" Ref="TPVA?"  Part="1" 
-AR Path="/5ECD7158/6116B3F2" Ref="TPVA?"  Part="1" 
-AR Path="/5ECE0B35/6116B3F2" Ref="TPVA?"  Part="1" 
-AR Path="/5EC21102/6116B3F2" Ref="TPVA?"  Part="1" 
-AR Path="/5EC2114E/6116B3F2" Ref="TPVA?"  Part="1" 
-AR Path="/5EC2119A/6116B3F2" Ref="TPVA?"  Part="1" 
-AR Path="/5EC211E6/6116B3F2" Ref="TPVA?"  Part="1" 
-AR Path="/5EC536EA/6116B3F2" Ref="TPVA?"  Part="1" 
-AR Path="/5EC60ECA/6116B3F2" Ref="TPVA?"  Part="1" 
-AR Path="/5EC6E362/6116B3F2" Ref="TPVA?"  Part="1" 
-AR Path="/5EC7BA20/6116B3F2" Ref="TPVA?"  Part="1" 
-AR Path="/5EC88F26/6116B3F2" Ref="TPVA?"  Part="1" 
-AR Path="/5EC96422/6116B3F2" Ref="TPVA?"  Part="1" 
-AR Path="/5ECA39A0/6116B3F2" Ref="TPVA?"  Part="1" 
-AR Path="/5F466AC8/6116B3F2" Ref="TPVA?"  Part="1" 
-AR Path="/5F466B4B/6116B3F2" Ref="TPVA?"  Part="1" 
-AR Path="/5F466B56/6116B3F2" Ref="TPVA?"  Part="1" 
-AR Path="/5F466B61/6116B3F2" Ref="TPVA?"  Part="1" 
-AR Path="/6116B3F2" Ref="TPVA8"  Part="1" 
-F 0 "TPVA8" V 18500 17000 50  0000 L CNN
-F 1 "TestPoint" V 18600 17000 50  0000 L CNN
-F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 18750 16800 50  0001 C CNN
-F 3 "~" H 18750 16800 50  0001 C CNN
-	1    18550 16800
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TPVA?
-U 1 1 6116B3FC
-P 18450 17400
-AR Path="/5EBDFBAE/6116B3FC" Ref="TPVA?"  Part="1" 
-AR Path="/5EC0778F/6116B3FC" Ref="TPVA?"  Part="1" 
-AR Path="/5ECCDD4B/6116B3FC" Ref="TPVA?"  Part="1" 
-AR Path="/5ECD7158/6116B3FC" Ref="TPVA?"  Part="1" 
-AR Path="/5ECE0B35/6116B3FC" Ref="TPVA?"  Part="1" 
-AR Path="/5EC21102/6116B3FC" Ref="TPVA?"  Part="1" 
-AR Path="/5EC2114E/6116B3FC" Ref="TPVA?"  Part="1" 
-AR Path="/5EC2119A/6116B3FC" Ref="TPVA?"  Part="1" 
-AR Path="/5EC211E6/6116B3FC" Ref="TPVA?"  Part="1" 
-AR Path="/5EC536EA/6116B3FC" Ref="TPVA?"  Part="1" 
-AR Path="/5EC60ECA/6116B3FC" Ref="TPVA?"  Part="1" 
-AR Path="/5EC6E362/6116B3FC" Ref="TPVA?"  Part="1" 
-AR Path="/5EC7BA20/6116B3FC" Ref="TPVA?"  Part="1" 
-AR Path="/5EC88F26/6116B3FC" Ref="TPVA?"  Part="1" 
-AR Path="/5EC96422/6116B3FC" Ref="TPVA?"  Part="1" 
-AR Path="/5ECA39A0/6116B3FC" Ref="TPVA?"  Part="1" 
-AR Path="/5F466AC8/6116B3FC" Ref="TPVA?"  Part="1" 
-AR Path="/5F466B4B/6116B3FC" Ref="TPVA?"  Part="1" 
-AR Path="/5F466B56/6116B3FC" Ref="TPVA?"  Part="1" 
-AR Path="/5F466B61/6116B3FC" Ref="TPVA?"  Part="1" 
-AR Path="/6116B3FC" Ref="TPVA3"  Part="1" 
-F 0 "TPVA3" V 18400 17600 50  0000 L CNN
-F 1 "TestPoint" V 18500 17600 50  0000 L CNN
-F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 18650 17400 50  0001 C CNN
-F 3 "~" H 18650 17400 50  0001 C CNN
-	1    18450 17400
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TPVA?
-U 1 1 6116B406
-P 18450 17950
-AR Path="/5EBDFBAE/6116B406" Ref="TPVA?"  Part="1" 
-AR Path="/5EC0778F/6116B406" Ref="TPVA?"  Part="1" 
-AR Path="/5ECCDD4B/6116B406" Ref="TPVA?"  Part="1" 
-AR Path="/5ECD7158/6116B406" Ref="TPVA?"  Part="1" 
-AR Path="/5ECE0B35/6116B406" Ref="TPVA?"  Part="1" 
-AR Path="/5EC21102/6116B406" Ref="TPVA?"  Part="1" 
-AR Path="/5EC2114E/6116B406" Ref="TPVA?"  Part="1" 
-AR Path="/5EC2119A/6116B406" Ref="TPVA?"  Part="1" 
-AR Path="/5EC211E6/6116B406" Ref="TPVA?"  Part="1" 
-AR Path="/5EC536EA/6116B406" Ref="TPVA?"  Part="1" 
-AR Path="/5EC60ECA/6116B406" Ref="TPVA?"  Part="1" 
-AR Path="/5EC6E362/6116B406" Ref="TPVA?"  Part="1" 
-AR Path="/5EC7BA20/6116B406" Ref="TPVA?"  Part="1" 
-AR Path="/5EC88F26/6116B406" Ref="TPVA?"  Part="1" 
-AR Path="/5EC96422/6116B406" Ref="TPVA?"  Part="1" 
-AR Path="/5ECA39A0/6116B406" Ref="TPVA?"  Part="1" 
-AR Path="/5F466AC8/6116B406" Ref="TPVA?"  Part="1" 
-AR Path="/5F466B4B/6116B406" Ref="TPVA?"  Part="1" 
-AR Path="/5F466B56/6116B406" Ref="TPVA?"  Part="1" 
-AR Path="/5F466B61/6116B406" Ref="TPVA?"  Part="1" 
-AR Path="/6116B406" Ref="TPVA4"  Part="1" 
-F 0 "TPVA4" V 18400 18150 50  0000 L CNN
-F 1 "TestPoint" V 18500 18150 50  0000 L CNN
-F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 18650 17950 50  0001 C CNN
-F 3 "~" H 18650 17950 50  0001 C CNN
-	1    18450 17950
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TPVA?
-U 1 1 6116B410
-P 18450 18500
-AR Path="/5EBDFBAE/6116B410" Ref="TPVA?"  Part="1" 
-AR Path="/5EC0778F/6116B410" Ref="TPVA?"  Part="1" 
-AR Path="/5ECCDD4B/6116B410" Ref="TPVA?"  Part="1" 
-AR Path="/5ECD7158/6116B410" Ref="TPVA?"  Part="1" 
-AR Path="/5ECE0B35/6116B410" Ref="TPVA?"  Part="1" 
-AR Path="/5EC21102/6116B410" Ref="TPVA?"  Part="1" 
-AR Path="/5EC2114E/6116B410" Ref="TPVA?"  Part="1" 
-AR Path="/5EC2119A/6116B410" Ref="TPVA?"  Part="1" 
-AR Path="/5EC211E6/6116B410" Ref="TPVA?"  Part="1" 
-AR Path="/5EC536EA/6116B410" Ref="TPVA?"  Part="1" 
-AR Path="/5EC60ECA/6116B410" Ref="TPVA?"  Part="1" 
-AR Path="/5EC6E362/6116B410" Ref="TPVA?"  Part="1" 
-AR Path="/5EC7BA20/6116B410" Ref="TPVA?"  Part="1" 
-AR Path="/5EC88F26/6116B410" Ref="TPVA?"  Part="1" 
-AR Path="/5EC96422/6116B410" Ref="TPVA?"  Part="1" 
-AR Path="/5ECA39A0/6116B410" Ref="TPVA?"  Part="1" 
-AR Path="/5F466AC8/6116B410" Ref="TPVA?"  Part="1" 
-AR Path="/5F466B4B/6116B410" Ref="TPVA?"  Part="1" 
-AR Path="/5F466B56/6116B410" Ref="TPVA?"  Part="1" 
-AR Path="/5F466B61/6116B410" Ref="TPVA?"  Part="1" 
-AR Path="/6116B410" Ref="TPVA5"  Part="1" 
-F 0 "TPVA5" V 18400 18700 50  0000 L CNN
-F 1 "TestPoint" V 18500 18700 50  0000 L CNN
-F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 18650 18500 50  0001 C CNN
-F 3 "~" H 18650 18500 50  0001 C CNN
-	1    18450 18500
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TPVA?
-U 1 1 6116B41A
-P 18450 19050
-AR Path="/5EBDFBAE/6116B41A" Ref="TPVA?"  Part="1" 
-AR Path="/5EC0778F/6116B41A" Ref="TPVA?"  Part="1" 
-AR Path="/5ECCDD4B/6116B41A" Ref="TPVA?"  Part="1" 
-AR Path="/5ECD7158/6116B41A" Ref="TPVA?"  Part="1" 
-AR Path="/5ECE0B35/6116B41A" Ref="TPVA?"  Part="1" 
-AR Path="/5EC21102/6116B41A" Ref="TPVA?"  Part="1" 
-AR Path="/5EC2114E/6116B41A" Ref="TPVA?"  Part="1" 
-AR Path="/5EC2119A/6116B41A" Ref="TPVA?"  Part="1" 
-AR Path="/5EC211E6/6116B41A" Ref="TPVA?"  Part="1" 
-AR Path="/5EC536EA/6116B41A" Ref="TPVA?"  Part="1" 
-AR Path="/5EC60ECA/6116B41A" Ref="TPVA?"  Part="1" 
-AR Path="/5EC6E362/6116B41A" Ref="TPVA?"  Part="1" 
-AR Path="/5EC7BA20/6116B41A" Ref="TPVA?"  Part="1" 
-AR Path="/5EC88F26/6116B41A" Ref="TPVA?"  Part="1" 
-AR Path="/5EC96422/6116B41A" Ref="TPVA?"  Part="1" 
-AR Path="/5ECA39A0/6116B41A" Ref="TPVA?"  Part="1" 
-AR Path="/5F466AC8/6116B41A" Ref="TPVA?"  Part="1" 
-AR Path="/5F466B4B/6116B41A" Ref="TPVA?"  Part="1" 
-AR Path="/5F466B56/6116B41A" Ref="TPVA?"  Part="1" 
-AR Path="/5F466B61/6116B41A" Ref="TPVA?"  Part="1" 
-AR Path="/6116B41A" Ref="TPVA6"  Part="1" 
-F 0 "TPVA6" V 18400 19250 50  0000 L CNN
-F 1 "TestPoint" V 18500 19250 50  0000 L CNN
-F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 18650 19050 50  0001 C CNN
-F 3 "~" H 18650 19050 50  0001 C CNN
-	1    18450 19050
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TPVA?
-U 1 1 6116B424
-P 18450 19600
-AR Path="/5EBDFBAE/6116B424" Ref="TPVA?"  Part="1" 
-AR Path="/5EC0778F/6116B424" Ref="TPVA?"  Part="1" 
-AR Path="/5ECCDD4B/6116B424" Ref="TPVA?"  Part="1" 
-AR Path="/5ECD7158/6116B424" Ref="TPVA?"  Part="1" 
-AR Path="/5ECE0B35/6116B424" Ref="TPVA?"  Part="1" 
-AR Path="/5EC21102/6116B424" Ref="TPVA?"  Part="1" 
-AR Path="/5EC2114E/6116B424" Ref="TPVA?"  Part="1" 
-AR Path="/5EC2119A/6116B424" Ref="TPVA?"  Part="1" 
-AR Path="/5EC211E6/6116B424" Ref="TPVA?"  Part="1" 
-AR Path="/5EC536EA/6116B424" Ref="TPVA?"  Part="1" 
-AR Path="/5EC60ECA/6116B424" Ref="TPVA?"  Part="1" 
-AR Path="/5EC6E362/6116B424" Ref="TPVA?"  Part="1" 
-AR Path="/5EC7BA20/6116B424" Ref="TPVA?"  Part="1" 
-AR Path="/5EC88F26/6116B424" Ref="TPVA?"  Part="1" 
-AR Path="/5EC96422/6116B424" Ref="TPVA?"  Part="1" 
-AR Path="/5ECA39A0/6116B424" Ref="TPVA?"  Part="1" 
-AR Path="/5F466AC8/6116B424" Ref="TPVA?"  Part="1" 
-AR Path="/5F466B4B/6116B424" Ref="TPVA?"  Part="1" 
-AR Path="/5F466B56/6116B424" Ref="TPVA?"  Part="1" 
-AR Path="/5F466B61/6116B424" Ref="TPVA?"  Part="1" 
-AR Path="/6116B424" Ref="TPVA7"  Part="1" 
-F 0 "TPVA7" V 18400 19800 50  0000 L CNN
-F 1 "TestPoint" V 18500 19800 50  0000 L CNN
-F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 18650 19600 50  0001 C CNN
-F 3 "~" H 18650 19600 50  0001 C CNN
-	1    18450 19600
-	1    0    0    -1  
-$EndComp
 $Sheet
 S 18600 15700 650  200 
 U 6116B42C
@@ -2874,40 +2350,6 @@ F1 "ChanelProtection.sch" 50
 F2 "Input" U L 18600 15750 50 
 F3 "Output" U R 19250 15750 50 
 $EndSheet
-$Comp
-L Connector:TestPoint TPVA?
-U 1 1 6116B432
-P 18450 15750
-AR Path="/5EBDFBAE/6116B432" Ref="TPVA?"  Part="1" 
-AR Path="/5EC0778F/6116B432" Ref="TPVA?"  Part="1" 
-AR Path="/5ECCDD4B/6116B432" Ref="TPVA?"  Part="1" 
-AR Path="/5ECD7158/6116B432" Ref="TPVA?"  Part="1" 
-AR Path="/5ECE0B35/6116B432" Ref="TPVA?"  Part="1" 
-AR Path="/5EC21102/6116B432" Ref="TPVA?"  Part="1" 
-AR Path="/5EC2114E/6116B432" Ref="TPVA?"  Part="1" 
-AR Path="/5EC2119A/6116B432" Ref="TPVA?"  Part="1" 
-AR Path="/5EC211E6/6116B432" Ref="TPVA?"  Part="1" 
-AR Path="/5EC536EA/6116B432" Ref="TPVA?"  Part="1" 
-AR Path="/5EC60ECA/6116B432" Ref="TPVA?"  Part="1" 
-AR Path="/5EC6E362/6116B432" Ref="TPVA?"  Part="1" 
-AR Path="/5EC7BA20/6116B432" Ref="TPVA?"  Part="1" 
-AR Path="/5EC88F26/6116B432" Ref="TPVA?"  Part="1" 
-AR Path="/5EC96422/6116B432" Ref="TPVA?"  Part="1" 
-AR Path="/5ECA39A0/6116B432" Ref="TPVA?"  Part="1" 
-AR Path="/5F466AC8/6116B432" Ref="TPVA?"  Part="1" 
-AR Path="/5F466B4B/6116B432" Ref="TPVA?"  Part="1" 
-AR Path="/5F466B56/6116B432" Ref="TPVA?"  Part="1" 
-AR Path="/5F466B61/6116B432" Ref="TPVA?"  Part="1" 
-AR Path="/6116B432" Ref="TPVA1"  Part="1" 
-F 0 "TPVA1" V 18400 15950 50  0000 L CNN
-F 1 "TestPoint" V 18500 15950 50  0000 L CNN
-F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 18650 15750 50  0001 C CNN
-F 3 "~" H 18650 15750 50  0001 C CNN
-	1    18450 15750
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	16250 15750 18450 15750
 $Sheet
 S 18600 16250 650  200 
 U 6116B43B
@@ -2964,39 +2406,6 @@ F1 "ChanelProtection.sch" 50
 F2 "Input" U L 18600 19600 50 
 F3 "Output" U R 19250 19600 50 
 $EndSheet
-Wire Wire Line
-	18300 16300 18450 16300
-Wire Wire Line
-	18600 17400 18450 17400
-Wire Wire Line
-	17700 17950 18450 17950
-Wire Wire Line
-	18600 18500 18450 18500
-Wire Wire Line
-	17300 19050 18450 19050
-Wire Wire Line
-	17100 19600 18450 19600
-Connection ~ 18450 15750
-Wire Wire Line
-	18450 15750 18600 15750
-Connection ~ 18450 16300
-Wire Wire Line
-	18450 16300 18600 16300
-Connection ~ 18450 17400
-Wire Wire Line
-	18450 17400 17900 17400
-Connection ~ 18450 17950
-Wire Wire Line
-	18450 17950 18600 17950
-Connection ~ 18450 18500
-Wire Wire Line
-	18450 18500 17500 18500
-Connection ~ 18450 19050
-Wire Wire Line
-	18450 19050 18600 19050
-Connection ~ 18450 19600
-Wire Wire Line
-	18450 19600 18600 19600
 Wire Wire Line
 	19250 19600 20500 19600
 Wire Wire Line
@@ -3714,4 +3123,36 @@ Wire Wire Line
 	36850 4600 36950 4600
 Wire Wire Line
 	18100 16850 18600 16850
+Text Label 18200 4450 0    50   ~ 0
++5VPI
+Wire Wire Line
+	16250 15750 18600 15750
+Wire Wire Line
+	18300 16300 18600 16300
+Wire Wire Line
+	17900 17400 18600 17400
+Wire Wire Line
+	17700 17950 18600 17950
+Wire Wire Line
+	17500 18500 18600 18500
+Wire Wire Line
+	17100 19600 18600 19600
+Wire Wire Line
+	17300 19050 18600 19050
+Wire Wire Line
+	1400 15450 3750 15450
+Wire Wire Line
+	3450 16000 3750 16000
+Wire Wire Line
+	3250 16550 3750 16550
+Wire Wire Line
+	3050 17100 3750 17100
+Wire Wire Line
+	2850 17650 3750 17650
+Wire Wire Line
+	2650 18200 3750 18200
+Wire Wire Line
+	2450 18750 3750 18750
+Wire Wire Line
+	2250 19300 3750 19300
 $EndSCHEMATC

@@ -567,8 +567,6 @@ F 3 "~" H 6800 3900 50  0001 C CNN
 	1    6800 3900
 	0    1    1    0   
 $EndComp
-Wire Wire Line
-	4850 2850 5300 2850
 Connection ~ 4850 2850
 Wire Wire Line
 	4850 2850 4850 2950
@@ -667,31 +665,6 @@ F 3 "~" H 5400 3350 50  0001 C CNN
 $EndComp
 Connection ~ 5200 3350
 $Comp
-L Connector:TestPoint VAD3
-U 1 1 5EF29675
-P 5300 2850
-F 0 "VAD3" H 5358 2968 50  0000 L CNN
-F 1 "TestPoint" H 5358 2877 50  0000 L CNN
-F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 5500 2850 50  0001 C CNN
-F 3 "~" H 5500 2850 50  0001 C CNN
-	1    5300 2850
-	1    0    0    -1  
-$EndComp
-Connection ~ 5300 2850
-Wire Wire Line
-	5300 2850 8100 2850
-$Comp
-L Connector:TestPoint VGS3
-U 1 1 5EF29845
-P 7200 3900
-F 0 "VGS3" H 7258 4018 50  0000 L CNN
-F 1 "TestPoint" H 7258 3927 50  0000 L CNN
-F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 7400 3900 50  0001 C CNN
-F 3 "~" H 7400 3900 50  0001 C CNN
-	1    7200 3900
-	1    0    0    -1  
-$EndComp
-$Comp
 L Connector:TestPoint OA1
 U 1 1 5EF2AA56
 P 5900 3900
@@ -713,11 +686,6 @@ F 3 "~" H 6100 4550 50  0001 C CNN
 	1    5900 4550
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	7050 3900 7200 3900
-Connection ~ 7200 3900
-Wire Wire Line
-	7200 3900 7450 3900
 Wire Wire Line
 	5850 3900 5900 3900
 Connection ~ 5900 3900
@@ -752,4 +720,8 @@ F 3 "~" H 6350 4550 50  0001 C CNN
 	1    6350 4550
 	0    1    1    0   
 $EndComp
+Wire Wire Line
+	7050 3900 7450 3900
+Wire Wire Line
+	4850 2850 8100 2850
 $EndSCHEMATC
