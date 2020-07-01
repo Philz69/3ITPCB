@@ -1,4 +1,4 @@
-update=2020-06-24 4:13:27 PM
+update=2020-07-01 5:07:50 PM
 version=1
 last_client=kicad
 [general]
@@ -42,9 +42,10 @@ TrackWidth1=0.2
 TrackWidth2=0.2
 TrackWidth3=0.5
 TrackWidth4=1
-TrackWidth5=5
-TrackWidth6=13
-TrackWidth7=67
+TrackWidth5=1.5
+TrackWidth6=5
+TrackWidth7=13
+TrackWidth8=67
 ViaDiameter1=0.6
 ViaDrill1=0.4
 ViaDiameter2=0.6
@@ -264,6 +265,17 @@ dPairWidth=0.2
 dPairGap=0.25
 dPairViaGap=0.25
 [pcbnew/Netclasses/1]
+Name=1.5A
+Clearance=0.2
+TrackWidth=1.5
+ViaDiameter=1.4
+ViaDrill=1
+uViaDiameter=0.3
+uViaDrill=0.1
+dPairWidth=0.2
+dPairGap=0.25
+dPairViaGap=0.25
+[pcbnew/Netclasses/2]
 Name=1A
 Clearance=0.3
 TrackWidth=1
@@ -274,7 +286,7 @@ uViaDrill=0.1
 dPairWidth=0.2
 dPairGap=0.25
 dPairViaGap=0.25
-[pcbnew/Netclasses/2]
+[pcbnew/Netclasses/3]
 Name=30A_Internal_1Oz
 Clearance=0.4
 TrackWidth=67
@@ -285,7 +297,7 @@ uViaDrill=0.1
 dPairWidth=0.2
 dPairGap=0.25
 dPairViaGap=0.25
-[pcbnew/Netclasses/3]
+[pcbnew/Netclasses/4]
 Name=30A_Surface_2Oz
 Clearance=0.4
 TrackWidth=13
@@ -296,7 +308,7 @@ uViaDrill=0.1
 dPairWidth=0.2
 dPairGap=0.25
 dPairViaGap=0.25
-[pcbnew/Netclasses/4]
+[pcbnew/Netclasses/5]
 Name=500mA
 Clearance=0.2
 TrackWidth=0.5
@@ -307,7 +319,7 @@ uViaDrill=0.1
 dPairWidth=0.2
 dPairGap=0.25
 dPairViaGap=0.25
-[pcbnew/Netclasses/5]
+[pcbnew/Netclasses/6]
 Name=5A
 Clearance=0.3
 TrackWidth=5
