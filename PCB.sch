@@ -3157,4 +3157,8 @@ Wire Wire Line
 	2250 19300 3750 19300
 Text Label 18850 4450 0    50   ~ 0
 +5VPI
+Text Label 24900 3250 0    50   ~ 0
+D+
+Text Label 24950 3350 0    50   ~ 0
+D-
 $EndSCHEMATC
