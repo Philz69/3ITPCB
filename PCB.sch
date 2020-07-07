@@ -2345,7 +2345,7 @@ Wire Wire Line
 $Sheet
 S 18600 15700 650  200 
 U 6116B42C
-F0 "sheet6116B42C" 50
+F0 "ProtectionActif1" 50
 F1 "ChanelProtection.sch" 50
 F2 "Input" U L 18600 15750 50 
 F3 "Output" U R 19250 15750 50 
@@ -2353,7 +2353,7 @@ $EndSheet
 $Sheet
 S 18600 16250 650  200 
 U 6116B43B
-F0 "sheet6116B43B" 50
+F0 "ProtectionActif2" 50
 F1 "ChanelProtection.sch" 50
 F2 "Input" U L 18600 16300 50 
 F3 "Output" U R 19250 16300 50 
@@ -2361,7 +2361,7 @@ $EndSheet
 $Sheet
 S 18600 16800 650  200 
 U 6116B43F
-F0 "sheet6116B43F" 50
+F0 "ProtectionActif3" 50
 F1 "ChanelProtection.sch" 50
 F2 "Input" U L 18600 16850 50 
 F3 "Output" U R 19250 16850 50 
@@ -2369,7 +2369,7 @@ $EndSheet
 $Sheet
 S 18600 17350 650  200 
 U 6116B443
-F0 "sheet6116B443" 50
+F0 "ProtectionActif4" 50
 F1 "ChanelProtection.sch" 50
 F2 "Input" U L 18600 17400 50 
 F3 "Output" U R 19250 17400 50 
@@ -2377,7 +2377,7 @@ $EndSheet
 $Sheet
 S 18600 17900 650  200 
 U 6116B447
-F0 "sheet6116B447" 50
+F0 "ProtectionActif5" 50
 F1 "ChanelProtection.sch" 50
 F2 "Input" U L 18600 17950 50 
 F3 "Output" U R 19250 17950 50 
@@ -2385,7 +2385,7 @@ $EndSheet
 $Sheet
 S 18600 18450 650  200 
 U 6116B44B
-F0 "sheet6116B44B" 50
+F0 "ProtectionActif6" 50
 F1 "ChanelProtection.sch" 50
 F2 "Input" U L 18600 18500 50 
 F3 "Output" U R 19250 18500 50 
@@ -2393,7 +2393,7 @@ $EndSheet
 $Sheet
 S 18600 19000 650  200 
 U 6116B44F
-F0 "sheet6116B44F" 50
+F0 "ProtectionActif7" 50
 F1 "ChanelProtection.sch" 50
 F2 "Input" U L 18600 19050 50 
 F3 "Output" U R 19250 19050 50 
@@ -2401,7 +2401,7 @@ $EndSheet
 $Sheet
 S 18600 19550 650  200 
 U 6116B453
-F0 "sheet6116B453" 50
+F0 "ProtectionActif8" 50
 F1 "ChanelProtection.sch" 50
 F2 "Input" U L 18600 19600 50 
 F3 "Output" U R 19250 19600 50 
