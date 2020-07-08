@@ -168,8 +168,6 @@ Wire Wire Line
 	4350 2300 4600 2300
 Text Label 4600 2300 0    50   ~ 0
 +5V
-Wire Wire Line
-	19950 12400 19800 12400
 Text Label 19400 12500 0    50   ~ 0
 +5V
 Wire Wire Line
@@ -1405,17 +1403,6 @@ Wire Wire Line
 Connection ~ 19800 11900
 Wire Wire Line
 	18550 12000 18550 12050
-Wire Wire Line
-	19800 12500 19950 12500
-Wire Wire Line
-	19800 12400 19800 12500
-Wire Wire Line
-	19800 12500 19800 12600
-Wire Wire Line
-	19800 12600 19950 12600
-Connection ~ 19800 12500
-Wire Wire Line
-	19400 12500 19800 12500
 Wire Wire Line
 	17950 11450 17650 11450
 Wire Wire Line
@@ -2897,43 +2884,6 @@ F1 "ChanelProtection.sch" 50
 F2 "Input" U L 29600 17300 50 
 F3 "Output" U R 30250 17300 50 
 $EndSheet
-$Comp
-L Connector:TestPoint TPVS+?
-U 1 1 5F1340B0
-P 29450 17300
-AR Path="/5EBDFBAE/5F1340B0" Ref="TPVS+?"  Part="1" 
-AR Path="/5EC0778F/5F1340B0" Ref="TPVS+?"  Part="1" 
-AR Path="/5ECCDD4B/5F1340B0" Ref="TPVS+?"  Part="1" 
-AR Path="/5ECD7158/5F1340B0" Ref="TPVS+?"  Part="1" 
-AR Path="/5ECE0B35/5F1340B0" Ref="TPVS+?"  Part="1" 
-AR Path="/5EC21102/5F1340B0" Ref="TPVS+?"  Part="1" 
-AR Path="/5EC2114E/5F1340B0" Ref="TPVS+?"  Part="1" 
-AR Path="/5EC2119A/5F1340B0" Ref="TPVS+?"  Part="1" 
-AR Path="/5EC211E6/5F1340B0" Ref="TPVS+?"  Part="1" 
-AR Path="/5EC536EA/5F1340B0" Ref="TPVS+?"  Part="1" 
-AR Path="/5EC60ECA/5F1340B0" Ref="TPVS+?"  Part="1" 
-AR Path="/5EC6E362/5F1340B0" Ref="TPVS+?"  Part="1" 
-AR Path="/5EC7BA20/5F1340B0" Ref="TPVS+?"  Part="1" 
-AR Path="/5EC88F26/5F1340B0" Ref="TPVS+?"  Part="1" 
-AR Path="/5EC96422/5F1340B0" Ref="TPVS+?"  Part="1" 
-AR Path="/5ECA39A0/5F1340B0" Ref="TPVS+?"  Part="1" 
-AR Path="/5F466AC8/5F1340B0" Ref="TPVS+?"  Part="1" 
-AR Path="/5F466B4B/5F1340B0" Ref="TPVS+?"  Part="1" 
-AR Path="/5F466B56/5F1340B0" Ref="TPVS+?"  Part="1" 
-AR Path="/5F466B61/5F1340B0" Ref="TPVS+?"  Part="1" 
-AR Path="/5F1340B0" Ref="TPVS+1"  Part="1" 
-F 0 "TPVS+1" H 29350 17650 50  0000 L CNN
-F 1 "TestPoint" H 29350 17550 50  0000 L CNN
-F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 29650 17300 50  0001 C CNN
-F 3 "~" H 29650 17300 50  0001 C CNN
-	1    29450 17300
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	29450 17300 29600 17300
-Wire Wire Line
-	28300 17300 29450 17300
-Connection ~ 29450 17300
 $Sheet
 S 29600 17950 650  200 
 U 5F5525AA
@@ -2942,45 +2892,10 @@ F1 "ChanelProtection.sch" 50
 F2 "Input" U L 29600 18000 50 
 F3 "Output" U R 30250 18000 50 
 $EndSheet
-$Comp
-L Connector:TestPoint TPVS-?
-U 1 1 5F5525B0
-P 29450 18000
-AR Path="/5EBDFBAE/5F5525B0" Ref="TPVS-?"  Part="1" 
-AR Path="/5EC0778F/5F5525B0" Ref="TPVS-?"  Part="1" 
-AR Path="/5ECCDD4B/5F5525B0" Ref="TPVS-?"  Part="1" 
-AR Path="/5ECD7158/5F5525B0" Ref="TPVS-?"  Part="1" 
-AR Path="/5ECE0B35/5F5525B0" Ref="TPVS-?"  Part="1" 
-AR Path="/5EC21102/5F5525B0" Ref="TPVS-?"  Part="1" 
-AR Path="/5EC2114E/5F5525B0" Ref="TPVS-?"  Part="1" 
-AR Path="/5EC2119A/5F5525B0" Ref="TPVS-?"  Part="1" 
-AR Path="/5EC211E6/5F5525B0" Ref="TPVS-?"  Part="1" 
-AR Path="/5EC536EA/5F5525B0" Ref="TPVS-?"  Part="1" 
-AR Path="/5EC60ECA/5F5525B0" Ref="TPVS-?"  Part="1" 
-AR Path="/5EC6E362/5F5525B0" Ref="TPVS-?"  Part="1" 
-AR Path="/5EC7BA20/5F5525B0" Ref="TPVS-?"  Part="1" 
-AR Path="/5EC88F26/5F5525B0" Ref="TPVS-?"  Part="1" 
-AR Path="/5EC96422/5F5525B0" Ref="TPVS-?"  Part="1" 
-AR Path="/5ECA39A0/5F5525B0" Ref="TPVS-?"  Part="1" 
-AR Path="/5F466AC8/5F5525B0" Ref="TPVS-?"  Part="1" 
-AR Path="/5F466B4B/5F5525B0" Ref="TPVS-?"  Part="1" 
-AR Path="/5F466B56/5F5525B0" Ref="TPVS-?"  Part="1" 
-AR Path="/5F466B61/5F5525B0" Ref="TPVS-?"  Part="1" 
-AR Path="/5F5525B0" Ref="TPVS-1"  Part="1" 
-F 0 "TPVS-1" H 29350 18350 50  0000 L CNN
-F 1 "TestPoint" H 29350 18250 50  0000 L CNN
-F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 29650 18000 50  0001 C CNN
-F 3 "~" H 29650 18000 50  0001 C CNN
-	1    29450 18000
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	29450 18000 29600 18000
 Wire Wire Line
 	29200 17400 29200 18000
 Wire Wire Line
 	28300 17400 29200 17400
-Connection ~ 29450 18000
 Wire Wire Line
 	30250 17300 31100 17300
 Wire Wire Line
@@ -2997,8 +2912,6 @@ Wire Wire Line
 	30150 16250 30950 16250
 Wire Wire Line
 	30150 16350 30950 16350
-Wire Wire Line
-	29200 18000 29450 18000
 NoConn ~ 22550 10900
 NoConn ~ 22550 11000
 NoConn ~ 22550 11100
@@ -3161,4 +3074,18 @@ Text Label 24900 3250 0    50   ~ 0
 D+
 Text Label 24950 3350 0    50   ~ 0
 D-
+Wire Wire Line
+	19400 12500 19950 12500
+Text Label 19400 12600 0    50   ~ 0
++5V
+Wire Wire Line
+	19400 12600 19950 12600
+Text Label 19400 12400 0    50   ~ 0
++5V
+Wire Wire Line
+	19400 12400 19950 12400
+Wire Wire Line
+	28300 17300 29600 17300
+Wire Wire Line
+	29200 18000 29600 18000
 $EndSCHEMATC

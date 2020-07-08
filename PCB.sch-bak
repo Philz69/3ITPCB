@@ -168,8 +168,6 @@ Wire Wire Line
 	4350 2300 4600 2300
 Text Label 4600 2300 0    50   ~ 0
 +5V
-Wire Wire Line
-	19950 12400 19800 12400
 Text Label 19400 12500 0    50   ~ 0
 +5V
 Wire Wire Line
@@ -1406,17 +1404,6 @@ Connection ~ 19800 11900
 Wire Wire Line
 	18550 12000 18550 12050
 Wire Wire Line
-	19800 12500 19950 12500
-Wire Wire Line
-	19800 12400 19800 12500
-Wire Wire Line
-	19800 12500 19800 12600
-Wire Wire Line
-	19800 12600 19950 12600
-Connection ~ 19800 12500
-Wire Wire Line
-	19400 12500 19800 12500
-Wire Wire Line
 	17950 11450 17650 11450
 Wire Wire Line
 	18650 11450 18650 11600
@@ -2345,7 +2332,7 @@ Wire Wire Line
 $Sheet
 S 18600 15700 650  200 
 U 6116B42C
-F0 "sheet6116B42C" 50
+F0 "ProtectionActif1" 50
 F1 "ChanelProtection.sch" 50
 F2 "Input" U L 18600 15750 50 
 F3 "Output" U R 19250 15750 50 
@@ -2353,7 +2340,7 @@ $EndSheet
 $Sheet
 S 18600 16250 650  200 
 U 6116B43B
-F0 "sheet6116B43B" 50
+F0 "ProtectionActif2" 50
 F1 "ChanelProtection.sch" 50
 F2 "Input" U L 18600 16300 50 
 F3 "Output" U R 19250 16300 50 
@@ -2361,7 +2348,7 @@ $EndSheet
 $Sheet
 S 18600 16800 650  200 
 U 6116B43F
-F0 "sheet6116B43F" 50
+F0 "ProtectionActif3" 50
 F1 "ChanelProtection.sch" 50
 F2 "Input" U L 18600 16850 50 
 F3 "Output" U R 19250 16850 50 
@@ -2369,7 +2356,7 @@ $EndSheet
 $Sheet
 S 18600 17350 650  200 
 U 6116B443
-F0 "sheet6116B443" 50
+F0 "ProtectionActif4" 50
 F1 "ChanelProtection.sch" 50
 F2 "Input" U L 18600 17400 50 
 F3 "Output" U R 19250 17400 50 
@@ -2377,7 +2364,7 @@ $EndSheet
 $Sheet
 S 18600 17900 650  200 
 U 6116B447
-F0 "sheet6116B447" 50
+F0 "ProtectionActif5" 50
 F1 "ChanelProtection.sch" 50
 F2 "Input" U L 18600 17950 50 
 F3 "Output" U R 19250 17950 50 
@@ -2385,7 +2372,7 @@ $EndSheet
 $Sheet
 S 18600 18450 650  200 
 U 6116B44B
-F0 "sheet6116B44B" 50
+F0 "ProtectionActif6" 50
 F1 "ChanelProtection.sch" 50
 F2 "Input" U L 18600 18500 50 
 F3 "Output" U R 19250 18500 50 
@@ -2393,7 +2380,7 @@ $EndSheet
 $Sheet
 S 18600 19000 650  200 
 U 6116B44F
-F0 "sheet6116B44F" 50
+F0 "ProtectionActif7" 50
 F1 "ChanelProtection.sch" 50
 F2 "Input" U L 18600 19050 50 
 F3 "Output" U R 19250 19050 50 
@@ -2401,7 +2388,7 @@ $EndSheet
 $Sheet
 S 18600 19550 650  200 
 U 6116B453
-F0 "sheet6116B453" 50
+F0 "ProtectionActif8" 50
 F1 "ChanelProtection.sch" 50
 F2 "Input" U L 18600 19600 50 
 F3 "Output" U R 19250 19600 50 
@@ -3161,4 +3148,14 @@ Text Label 24900 3250 0    50   ~ 0
 D+
 Text Label 24950 3350 0    50   ~ 0
 D-
+Wire Wire Line
+	19400 12500 19950 12500
+Text Label 19400 12600 0    50   ~ 0
++5V
+Wire Wire Line
+	19400 12600 19950 12600
+Text Label 19400 12400 0    50   ~ 0
++5V
+Wire Wire Line
+	19400 12400 19950 12400
 $EndSCHEMATC
